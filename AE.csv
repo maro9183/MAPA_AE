@@ -1,0 +1,585 @@
+ID,PRODUCTOR1,REGION,PARTIDO,LOCALIDAD,NOMBRE,SUPERFICIE TOTAL,SUPERFICIE AE ,LAT,LONG,CORREO,TELEFONO
+1,Martin Ignacio t (34572481),Norte,PERGAMINO,,Laura Ratto,55,55,-33.93369444,-60.59011111,mitoriggino@hotmail.com,
+6,Ana Carolina Ramos (34434559),Centro Norte,BRAGADO,,Cultivos Catalpa,3,3,-35.12385556,-60.50902222,cultivoscatalpa@hotmail.com,
+7,Alejandro Alberto Costa (30910186),Metropolitana,FLORENCIO VARELA,,La Primavera,8,4,-34.850594,-58.246994,alecosta84@yahoo.com.ar,
+14,MARIA ROSARIO LOPEZ SECO (18355886),Metropolitana,BRANDSEN,,El Abascay de Lopez Seco SA,351,351,-35.21370556,-58.13859722,rosariolopezseco@hotmail.com,
+17,Fabián Ponce (28060303),Norte,PERGAMINO,Fontezuela,,0,0,-33.9140097,-60.4601982,fabian3cv@gmail.com,
+18,Ave María de los Arrecifes S.A.,Norte,ARRECIFES,,Ave Maria,400,325,-34.1648611111111,-60.077,avemariadelosarrecifessa@gmail.com,
+19,Mariana Andrea Escobedo (26254610),Norte,SALTO,,La granja,5,1,-34.223648,-60.3026706,marianakulchisky@hotmail.com,
+20,Enrique Jose Baudracco (11862015),Metropolitana,GENERAL LAS HERAS,General Hornos,La Carolina,250,250,-34.871636,-58.940876,arielbaudracco@hotmail.com,
+22,MIGUEL URÍA DUHART (31658718),Noroeste,TRENQUE LAUQUEN,,LA JUANITA,"4,302",530,-36.081011,-62.25806,migueluriaduhart@gmail.com,
+23,Carlos Ceferino Azuaga (16768423),Centro,OLAVARRÍA,Loma Negra,San Pablo Santa Teresita,145,145,-36.989408,-60.310863,cali.azuaga@gmail.com,
+24,NATALIA CAMBARERI (22878657),Metropolitana,PILAR,,FINCA VIRA VIRA,1,1,-34.491476,-58.927039,Ncamba1@hotmail.com,
+26,Marcela Laura Benbassat (17199574),Metropolitana,ESCOBAR,,HUERTAGRANDE BIODINAMICA,1,1,-34.341189,-58.826203,benbamarce@hotmail.com,
+27,MARTIN DE ALZA (20807287),Cuenca del Salado,AYACUCHO,,LA TAPERA,88,70,-37.14602778,-58.57813889,mdealza@hotmail.com,
+32,FELIPE MARTINEZ (22749400),Sudoeste,BENITO JUÁREZ,ALZAGA,DON RAUL,283,283,-37.933793,-59.872015,emailfelipemartinez@gmail.com,
+34,José María Cano (18037815),Centro,TANDIL,,Chacra Don Ángel,109,109,-37.28444444,-59.09777778,Jmcano66@gmail.com,
+35,Sandra Inés Vela (30529972),Sudoeste,BAHÍA BLANCA,,Granja Shalom,2,2,-38.67758333,-62.22327778,sandravelacuenca@gmail.com,
+37,Carlos D’Alssandro (27814264),Centro,TAPALQUÉ,Tapalque,Villa Maria,56,56,-36.28722,-59.59022,carlosdalessandro@hotmail.com,
+39,Roberto Osvaldo Mirabara (16472536),Metropolitana,FLORENCIO VARELA,La Capilla,,2,1,-34.882512,-58.227036,robertomirabara476@gmail.com,
+40,Rodrigo Daniel Ferraiulo (27778302),Metropolitana,CAÑUELAS,,Huerta Agroecologica Pachamama Culiparri,16,16,-35.01716667,-58.72952778,rodrigocatrileo@hotmail.com,
+41,Angel Oscar Lumbreras (4751551),Costera Marítima,GENERAL PUEYRREDÓN,Mar Del Plata,Chacra Agroecológica ReSaPo,1,0,-37.91618,-57.77601,chacraresapo@gmail.com,
+42,Carlos Alberto Fernandez,Metropolitana,CAÑUELAS,Aejandro Petion,La Patria es el Otro,30,30,-34.958532,-58.680621,eve.pelu.luks@gmail.com,
+43,Martin Julian Rodriguez (29719946),Sudoeste,GUAMINÍ,,Doña Ofelia,50,50,-37.04283333,-62.43719444,martinrodriguez23383@gmail.com,
+44,Hernán Paterlini (33646207),Costera Marítima,GENERAL PUEYRREDÓN,Sierra de los Padres,Sin Nombre,2,2,-37.916017,-57.753904,hernanpaterlini@hotmail.com,
+45,Daniela Acosta (28381857),Centro,RAUCH,,El capricho,250,250,-36.509893,-58.643634,alimentoscuidados@gmail.com,
+46,Matías Aban (33783411),Metropolitana,BERAZATEGUI,Hudson,Hola Sabor,12,5,-34.80812,-58.12425,matiaban87@gmail.com,
+49,Tomás Joaquín Roldán (35173244),Centro Norte,BRAGADO,,,0,0,-35.089,-60.49702778,tomasjoaquinroldan@gmail.com,
+50,Josiana Guadalupe Garcia (32482394),Cuenca del Salado,AYACUCHO,,Chopen Ken Aiquen,61,61,-37.21179,-58.781416,josianagarcia@gmail.com,
+52,Nestor Fuggini (17854578),Cuenca del Salado,AYACUCHO,,Los dos hermanos,40,40,-37.217944,-58.715567,nestorfuggini@hotmail.com,
+54,Melanie Perez Palacios (36387369),Metropolitana,FLORENCIO VARELA,,El Jardin del Abuelo,1,1,-34.905,-58.26683333,melanieppalacios@gmail.com,
+55,Luis Cornelio Pérez (14723319),Metropolitana,FLORENCIO VARELA,,El Jardin del Abuelo,2,2,-34.905,-58.26683333, ,
+59,Mauricio Luis Urquiola (21922879),Sudoeste,CORONEL PRINGLES,,Huerta Los Tres Chiflados,6,6,-38.004619,-61.381082,urquiola_mauricio@hotmail.com,
+62,Mario Fabian Ricau (20480399),Sudoeste,CORONEL PRINGLES,,,0,0,-37.9762470,-61.3389810,marioricau.dibu@gmail.com,
+66,Juan de Dios Migueltorena,Cuenca del Salado,GENERAL PAZ,Loma Verde para Gral Paz,Los abuelos,27,27,-35.291051,-58.404102,juanmigueltorena@gmail.com,
+67,Roque Jacinto Ayunta (10442826),Metropolitana,FLORENCIO VARELA,,,1,1,-34.89929,-58.26054, ,
+68,Santos Reyes Narvaez (18719031),Metropolitana,FLORENCIO VARELA,,Santos Reyes,2,2,-34.896414,-58.257634, ,
+70,ROBERTO JOSE FERNANDEZ (12486157),Metropolitana,ZÁRATE,,Jardin Comestible EL ENCUENTRO,1,1,-34.155115,-59.132868,univer-city@hotmail.com,
+73,Hernando Ceregido (34974643),Centro Norte,NUEVE DE JULIO,,La quinta de totoro,10,9,-35.34119,-60.93486,h.ceregido@gmail.com,
+74,RAUL ORLANDO ARENAS OCHOA (94417846),Costera Marítima,NECOCHEA,,,10,5,-38.5517911,-58.729965,josearenas520@gmail.com,
+76,ADEL OCHO BAMBA (94260814),Costera Marítima,NECOCHEA,Quequén,,7,1,-38.55798,-58.626954, ,
+77,RAMON FLORES ROLANDO (94701758),Costera Marítima,NECOCHEA,,,5,2,-38.5517911,-58.729965,olgapizarro2020@gmail.com,
+78,Natalia Dardis (28156527),Cuenca del Salado,MAGDALENA,,La Encimera,30,30,-35.09005,-57.602642,rmiturriaga@hotmail.com,
+80,ADAN BURGOS (36217009),Costera Marítima,NECOCHEA,,,1,1,-38.583488,-58.734128,adanburgos654@gmail.com,
+82,DAMIAN GALEAN LOPEZ (31958272),Costera Marítima,NECOCHEA,,,14,1,-38.526599,-58.789604, ,
+88,Wildo Agustín Eizaguirre Sanchez (94256233),Metropolitana,LA PLATA,Abasto,,1,1,-34.994994,-58.095807,wildoeizaguirre0287@gmail.com,
+89,Martha Eunice Andacaba (94149065),Metropolitana,LA PLATA,Olmos,,1,1,-35.024251,-58.016498,marthaandacaba99@gmail.com,
+91,Sandra Lucy Cruz Portal (92732909),Metropolitana,LA PLATA,Abasto,,2,2,-35.00702778,-58.08408333,cruzsandra697@gmail.com,
+92,Mabel Liliana Vidal Yanaje (41552270),Metropolitana,LA PLATA,Abasto,,0,0,-34.974050,-58.075996,mabel12vidal@gmail.com,
+93,Alejandro Rivera Rodriguez (93080087),Metropolitana,LA PLATA,Olmos,,2,2,-34.99514427879825 ,-57.852260444056405,valeriaicataldi@gmail.com,
+95,Sirle Jieny Catari Torrez (94526211),Metropolitana,LA PLATA,Abasto,,1,1,-35.007784,-58.086610,jienycatari22@gmail.com,
+96,Dora Norma Choquehuanca Mamani (94880261),Metropolitana,LA PLATA,Abasto,,1,1,-34.966049,-58.074203,,
+98,Lucila Soto (94353187),Costera Marítima,LOBERÍA,,,5,1,-38.148608,-58.800801,mariasilvinadc@yahoo.com.ar,
+99,Ismael Vilte Soto (94881024),Costera Marítima,LOBERÍA,,,3,2,-38.158478,-58.770257,,
+100,Humberto Sanchez (36218039),Costera Marítima,LOBERÍA,,,3,1,-38.151784,-58.789697,omarjaviersanchez72@gmail.com,
+101,Veronica Escalada (23938159),Costera Marítima,GENERAL ALVARADO,Miramar,Waiwenad,0,0,-38.24688889,-57.85872222,aguilaelectrica1974@yahoo.com.ar,
+107,Armin Julian Agustin Eizaguirre Sanchez (9430757),Metropolitana,LA PLATA,Abasto,,1,1,-34.994913,-58.095874,armineisaguirre2511@gmail.com,
+108,Fidel Soruco Gareca (93655892),Metropolitana,LA PLATA,Abasto,,2,2,-34.96777778,-58.11794444,fidelsoruco123@gmail.com,
+109,Wison Tomas Eizaguirre Solorzano (94046220),Metropolitana,LA PLATA,Abasto,,0,0,-34.994994,-58.095807,eizaguirrewilson@gmail.com,
+110,Rosario Quispe Mamani (94137780),Metropolitana,LA PLATA,Abasto,,1,1,-34.986778 ,-58.096013,rosario.quispe.1984@gmail.com,
+111,Maximiliano Roccaro (25622894),Centro Norte,LEANDRO N. ALEM,Vedia,Granja Agroecológica Tierra Amada,8,8,-34.4846266,-61.5537454,maximilianoroccaro@gmail.com,
+113,Esteban González Zugasti (16923834),Costera Marítima,GENERAL PUEYRREDÓN,Sierra de los Padres,Paititi,437,437,-37.41419444,-57.81852778,egzugasti@gmail.com,
+115,Olga Marìa Moro (6024417),Centro Norte,LINCOLN,Arenaza,El Descanso,50,50,-34.980617,-61.761203,vescomoromarisol@gmail.com,
+116,Mariano van Strien (18492436),Sudoeste,TRES ARROYOS,Claromecó,Argelanda,320,320,-38.77478,-60.13371,argelanda@gmail.com,
+117,hugo olleta (16722059),Sudoeste,GUAMINÍ,,La Nuca,450,450,-37.22888889,-62.39805556,hugo_olleta@hotmail.com,
+119,Monica Patricia Sumey (22158887),Metropolitana,CAÑUELAS,,Almacén de campo camino del potro,3,3,-35.139478,-58.734417,patriciasumey@gmail.com,
+120,Hernan Manuel Somoza (25784766),Metropolitana,CAÑUELAS,,Pachakramama,2,2,-35.13152778,-58.7320278,pachakramama@gmail.com,
+122,Alejandro Javier Delgado (14007936),Costera Marítima,LOBERÍA,,"Chacra ""Lo Deniro""",50,50,-38.25063889,-58.87894444,ignacioadelgado91@hotmail.com.ar,
+124,Graciela Pascualeti (23745591),Costera Marítima,LOBERÍA,,Huerta Comunitaria,5,3,-38.18489,-58.78678,maninierjj@gmail.com,
+125,Daniel Andres Campoy (12973782),Centro Norte,NUEVE DE JULIO,12 de Octubre ,La Reserva,430,28,-35.646233,-60.985241,campoydaniel@yahoo.com.ar,
+126,Agustin Castro Volpe (38010350),Norte,BARADERO,,Luna del Chaco,15,8,-33.830123,-59.444833,acastrovolpe@gmail.com,
+128,tomas Peña Lassalle (28452743),Metropolitana,EXALTACIÓN DE LA CRUZ,Los Cardales,,10,0,-34.349115,-58.981927,tplassalle@gmail.com,
+129,Franco Zabala (37186583),Norte,COLÓN,Villa Pomar El Arbolito,La Ortiga Agroecologicos,3,3,-33.91308333,-60.94344444,franco.zabala92@gmail.com,
+131,Guillermo Krayeski (23261338),Metropolitana,BERAZATEGUI,Hudson,N°85,4,4,-34.80466667,-58.17297222,nidiaesterperez@gmail.com,
+132,Sophie AnneLaure Chaxel (95446113),Cuenca del Salado,AYACUCHO,La Constancia,La Quinta Esperanza,1,1,-37.22475,-58.76046,sophiechaxel@hotmail.com,
+133,VIDAL LOPEZ ALTAMIRANO (92963824),Metropolitana,BERAZATEGUI,HUDSON,QUINTA N°68,6,5,-34.820316,-58.112736,lalobottesi@yahoo.com.ar,
+134,RAMON LOPEZ ALTAMIRANO (92764315),Metropolitana,BERAZATEGUI,BERAZATEGUI,QUINTA N°69,6,6,-34.819626,-58.113668,ip20581a@gmail.com,
+135,María Rosa Vega (24864038),Metropolitana,GENERAL RODRÍGUEZ,B.Marabo,Quinta la Victoria,1,1,-34.555088,-58.948664,elaramayo@gmail.com,
+136,Esteban Martiarena (32533099),Cuenca del Salado,AYACUCHO,"Cuartel VIII, Solanet",Buena Leche,52,52,-36.96736111,-58.46097222,maxireitz@gmail.com,
+137,Mario Martiarena (16137993),Cuenca del Salado,AYACUCHO,"Cuartel VIII, Solanet",Don Pedro,760,760,-36.96736111,-58.46097222,maxireitz@gmail.com,
+138,Maximiliano Reitz (27139296),Centro,OLAVARRÍA,Olavarría,El Aromo,63,9,-36.78607,-60.38253,maxireitz@gmail.com,
+139,Ignacio Marque (30745384),Costera Marítima,GENERAL PUEYRREDÓN,Sierra de Los Padres,La Coloradita,220,6,-37.85,-57.79638889,ignacio@marque.com.ar,
+140,Mabel Catalina Vesco (11128347),Centro Norte,LINCOLN,El Triunfo,El Trèbol,150,150,-35.241877,-61.482961,vescomoromarisol@gmail.com,
+141,Juan Carlos Pelizza (8364996),Centro Norte,LINCOLN,Martìnez de Hoz,El Trèbol 2,100,100,-35.334647,-61.560215,vescomoromarisol@gmail.com,
+142,Eva Martha Chulqui Rodriguez (94479655),Metropolitana,FLORENCIO VARELA,La Capilla,Eva Chulqui,4,4,-34.907104,-58.267878,evachulqui7@gmail.com,
+143,Luis Vicente Mamani (92945035),Metropolitana,FLORENCIO VARELA,La Capilla,Luis Vicente Mamani,2,2,-34.903611,-58.260548,melanieppalacios@gmail.com,
+145,Ramona Hermosa (10474108),Metropolitana,MORENO,Trujui,La Tacuarita,7,3,-34.583167,-58.779255,piconflavia.vet@gmail.com,
+146,José Rodolfo Orellana (18170787),Metropolitana,MORENO,Francisco Alvarez,,5,5,-34.650507,-58.853417,produccionagroalimentaria@moreno.gov.ar,
+147,Nicolás Ferreira (14700481),Metropolitana,MORENO,Trujuy- Villa Malaver,Quinta Grande,15,15,-34.574263,-58.782915,produccionagroalimentaria@moreno.gov.ar,
+148,Orlando Esteban Samek (21862688),Sudoeste,GUAMINÍ,"Cuartel 6,Arroyo venado",El 27,162,162,-37.06072222,-62.49280556,estebansamek71@gmail.com,
+150,andres teruggi (27669143),Cuenca del Salado,AYACUCHO,,San Carlos,100,100,-36.92736111,-58.56919444,teruggiandres@gmail.com,
+153,Antonio Ruiz (30533786),Costera Marítima,GENERAL PUEYRREDÓN,Estación Chapadmalal,Las Brusquitas,10,10,-38.107412,-57.8155518,lasbrusquitaseco@gmail.com,
+154,Oscar Alan Perez Fuggini (32700391),Cuenca del Salado,AYACUCHO,,"EL BUEN RETIRO, EL RETIRO 3 Y DON CONSTANTE",134,134,-37.214636,-58.786932,alanperezfuggini@gmail.com,2215425109
+155,Soledad Laguarde (25312222),Costera Marítima,GENERAL PUEYRREDÓN,Mar del plata,La huerta de Sole,0,0,-38.166787,-57.638513,laguardesoledad@gmail.com,
+157,Liliana Mabel Jimenez (17193549),Metropolitana,CAÑUELAS,,Nuestra Fe,109,107,-35.222972,-58.755087,lilianamabeljimenez@gmail.com,
+159,MARTIN GUSTAVO BEBER (29317540),Sudoeste,GENERAL LA MADRID,,Mallin-Co,390,158,-37.773987,-61.434417,martingbeber@gmail.com,2922450882
+160,Mercedes Natividad Taboada Sanabria (93717526),Metropolitana,FLORENCIO VARELA,Ing. Allan,VUELTA AL CAMPO,3,3, -34.883071,-58.211456,merce.taboada8722@gmail.com,
+163,Marcela Calderon (18255355),Centro Norte,GENERAL VIAMONTE,Baigorrita,El Paraiso,200,70,-34.80730556,-60.994,elhuertointerior7@gmail.com,
+164,Angel Dovico (14151838),Metropolitana,ESCOBAR,,,0,0,-34.309139,-58.819,angel.dovico@gmail.com,
+165,Gonzalo De Marco (31915449),Costera Marítima,GENERAL ALVARADO,Miramar,TARPUY,14,8,-38.24055556,-57.86544444,tarpuy.miramar@gmail.com,
+171,Silveria Telao Mamani (93066675),Metropolitana,FLORENCIO VARELA,La Capilla ,Silveria Telao Mamani,3,3,-34.907264,-58.268036,melanieppalacios@gmail.com,
+172,Felix Manrrique Vara (93044842),Metropolitana,FLORENCIO VARELA,,Felix Manrrique,1,1,-34.894862,-58.273242,leticiamanrrique@gmail.com,
+173,Santiago Donoso (34375208),Cuenca del Salado,AYACUCHO,,El Centenario-La valentina,681,681,-37.037263,-58.296917,santiagodonoso.fair@gmail.com,
+174,Daniel Antonio Alonso (11631709),Centro Norte,BRAGADO,La limpia ,Granja La Permanencia,26,26,-35.084982,-60.601502,vegetalesbragado@hotmail.com,
+176,Luciano Crucci (23124224),Metropolitana,GENERAL RODRÍGUEZ,,Las Primas,31,20,-34.57825,-58.8895,lucianocrucci@gmail.com,
+177,ESTANCIA MONTSERRAT SA ESTANCIA MONTSERRAT SA (71162959),Cuenca del Salado,PILA,,Establecimiento Montserrat,612,612,-36.04,-58.10861111,javierfprece@gmail.com,
+178,Facundo Lacognata (24478074),Metropolitana,ZÁRATE,,,0,0,-34.12805,-59.080103,lacognata@gmail.com,
+179,Ignacio Iglesias (38129973),Centro,TANDIL,,La Union,25,25,-37.27705,-59.11205,iglesiasg.ignacio@gmail.com,
+182,Simón Daniel Duarte Verón (94487466),Metropolitana,ZÁRATE,,Establecimiento La Rosenda,85,5,-34.119972,-59.149999,sebas.bartolome@live.com.ar,
+194,Erica Mónica Knoop (16149717),Metropolitana,ESCOBAR,"Maquinista Savio, ",Espacio Germinal,0,0,-34.4059,-58.761819,emonicaknoop@gmail.com,
+201,Leonardo Andrés Corazza (23569648),Metropolitana,BERISSO,,DON PEDRO,10,10,-34.862336,-57.865020,leonardocorazza@hotmail.com,
+208,Nicolas Porchilote (39329240),Sudoeste,GUAMINÍ,,Huerta Ecológica “El Campito”,200,1,-37.013377,-62.3904388,nicoporchilote@gmail.com,
+209,Liliana GARIBOLDI (20428547),Centro Norte,GENERAL PINTO,,EL BAJO,66,66,-34.70211111,-61.88388889,lilianagariboldi@yahoo.com.ar,
+211,Fernando Piñero (24933650),Metropolitana,ESCOBAR,Escobar,La Cañada,7,7,-34.347908,-58.766604,fenandopiner@gmail.com,
+217,Juan Ignacio Vismara (33537143),Centro,TANDIL,,,150,1,-37.26729,-59.227128,ignaciojuan452@gmail.com,
+220,Mauricio Lujan Bleynat (22888167),Sudoeste,GUAMINÍ,,DON ALFONSO,75,75,-37.05514722,-62.43138889,mauriciolujanbleynat@gmail.com,
+221,Facundo Omar Cejas (34631320),Norte,COLÓN,El Arbolito,Lía,1,1,-33.91513889,-60.93888889,delegacionelarbolito2015@gmail.com,
+225,Emilio Daniel Carbajal (30240543),Cuenca del Salado,LAS FLORES,Las Flores,Chacra Madre,1,1,-36.2282,-59.3791,gisellefolha@gmail.com,
+226,MARIANO CARLOS ELISSONDO (28299414),Centro,TANDIL,,Andrea,1,1,-37.257438,-59.216483,marianoelissondo@gmail.com,2494638391
+227,Juan Ignacio Echeverría (26621717),Costera Marítima,GENERAL PUEYRREDÓN,Mar del Plata,Huerta del Arroyo,0,0,-38.09377778,-57.56275,juanignacioecheverria@gmail.com,
+229,Municio De Tandil (),Centro,TANDIL,,El Arraigo,21,17,-37.425937,-59.044153,agroecologiamunitan@tandil.gov.ar,
+230,Sergio Lavagnino (16302128),Centro Norte,CHACABUCO,,La Posta,33,33,-34.72180556,-60.37552778,sergiolavag2019@gmail.com,
+231,ALFREDO OMAR FANELLI (5064440),Centro Norte,LINCOLN,El Triunfo,DON JOAQUIN,435,150,-35.13571944,-61.59777778,hernanfanelli@yahoo.com.ar,
+232,Lucas Baliña (37844379),Centro,TANDIL,,Las Mercedes,15,15,-37.38025,-59.09636111,lucasbalina@gmail.com,
+233,Carmen Herlinda Gómez Flores (94167862),Costera Marítima,GENERAL PUEYRREDÓN,Laguna de los Padres,Murashima,2,2,-37.920743,-57.712392, ,
+236,Norman Alejandro Celescinco (22378977),Sudoeste,VILLARINO,Mayor Buratovich,Sin Nombre,80,45,-39.2669940,-62.72516389,alecl5@yahoo.com.ar,2914702496
+237,Vanesa Noemi Andrada (31074052),Sudoeste,VILLARINO,Pedro Luro,Chacra El Pehuenche,100,100,-39.50408333,-62.66861111,jparragonzalez5@hotmail.com,
+238,Gabino De Uribe Echevarría (12278223),Sudoeste,BAHÍA BLANCA,,Los Potreritos,225,225,-38.636953,-62.12419,gabinouribe@gmail.com,2916486459
+239,Rubén Darío Kunusch (20989084),Sudoeste,TORNQUIST,Chasicó,Sin Nombre,162,162,-38.295,-62.61111111,rkunusch@yahoo.com.ar,
+243,Elio Darío Braun (14183905),Sudoeste,SAAVEDRA,Paraje Los Chilenos,Don Víctor,200,200,-38.19409167,-62.48229444,silviadupuy@live.com.ar,
+246,Omar Alberto Vittori (11160100),Sudoeste,TORNQUIST,Tres Picos,María del Carmen,179,179,-38.22055556,-62.23258333,alvaro.vittori@gmail.com,
+249,Gustavo Gabriel Mazzarini (22621718),Sudoeste,SAAVEDRA,Laguna Los Chilenos,El Cerro,346,346,-38.08222222,-62.39583333,gustavomazzarini@yahoo.com.ar,
+252,Stefania Piergüidi (34648451),Costera Marítima,LA COSTA, Costa Azul,,0,0,-38.108112,-57.600956,stefi.pierguidi89@gmail.com,
+254,Ana Clara Alberdi (287226573),Sudoeste,CORONEL SUÁREZ,,IRIBERRI,280,161,-37.35530556,-62.0105556,iriberrilalomash@gmail.com,
+255,Gabriel Cesar Arisnabarreta (12094171),Centro,SALADILLO,,CHACRA LA BONITA,30,30,-35.6215810,-59.7956850,garisna@hotmail.com,2345660924
+256,jorge themtham (12724575),Noroeste,TRENQUE LAUQUEN,30 De Agosto,JUAN NICO SRL,717,717,-36.39835833,-62.66413611,jorgethemtham@yahoo.com.ar,
+267,Juan José Urrutia (26255236),Centro,BOLÍVAR,,,55,55,-36.272563,-61.042432,juanuruar@yahoo.com,
+268,Municipalidad de Escobar (),Metropolitana,ESCOBAR,Ing Maschwizt,HUERTA AGROECOLOGICA MUNICIPAL,1,1,-34.37287,-59.75080,maujume@hotmail.com,
+269,David Exequiel Chapanagua (36330822),Metropolitana,ESCOBAR,,HCH producción Agroecologica,4,4,-34.32172,-58.8121242,davidchapanagua@gmail.com,
+270,Juan Amador Velasquez (94268979),Metropolitana,LA PLATA,Ángel Etcheverry,huerta amador,3,3,-35.033837,-58.080321,jamador277@gmail.com,
+271,CRESCENCIO ALARCON ACOSTA (92777169),Metropolitana,BERAZATEGUI,Hudson,QUINTA N°84,3,3,-34.806790,-58.127333,vanesaalarcon1991@gmail.com,
+272,ROSMERY GARECA CARDOZO (95447064),Metropolitana,BERAZATEGUI,Hudson,QUINTA N°83,2,2,-34.807362,-58.126665,wilfredogalean45@gmail.com,
+276,Beatriz Indamira Ramirez (24325770),Metropolitana,LA PLATA,Villa Elisa,Quinta N° 1,3,3,-34.839493,-58.086788,beatriz.indamira@gmail.com,
+277,FRANCO SALVUCCI (33876229),Cuenca del Salado,GENERAL BELGRANO,,LA QUINTA,0,0,-35.772995,-58.501187,francosalvu@gmail.com,
+278,maria del carmen alvarez (17869053),Sudoeste,GUAMINÍ,huanguelen,Maimará,9,9,-37.06,-61.91,carmencitaalvarez@gmail.com,2923693702
+279,Juan Javier Paniagua Acuña (94590646),Metropolitana,BERAZATEGUI,El Pato,plantinera agroecológica crezcamos todos juntos,3,3,-34.903961,-58.192020,javierpaniagua01819@gmail.com,
+281,Ruben Aparicio Olmos (94206354),Metropolitana,FLORENCIO VARELA,,huerta Aparicio,2,2,-34.909636,-58.251034 ,iquisedani@gmail.com,
+283,Silvia Eugenia yebara alemán (92995808),Metropolitana,FLORENCIO VARELA,la capilla,huerta yebara,2,2,-34.8932880 ,-58.2317880,eugeniayebara@gmail.com,1123001223
+284,Herminia alemán Aldana (92995807),Metropolitana,FLORENCIO VARELA,la capilla,huerta yebara,2,2,-34.893236,-58.231786,eugeniayebara@gmail.com,1123001223
+285,Soledad Varela (25440936),Centro Norte,LINCOLN,Pasteur,Los pirinchos,256,256,-36.0740703,-62.3471214,msvd2003@hotmail.com,
+288,María Andrea Mazzuco(17096668),Centro,BOLÍVAR,,Chacra La Adelina,9,8,-36.255811,-61.158945,mazzuccomandrea@gmail.com,
+291,Raul Asorey (14104857),Centro Norte,LINCOLN,,El 26,309,309,-34.8341611111111,-61.4637722222222,raulasorey@gmail.com,
+292,Javier Gonzalo Morello (29785184),Cuenca del Salado,DOLORES,,El solcito,130,130,36°18'17.2''S,57°36'23.4''W,javiergmorello@gmail.com,2245509317
+302,Wilson Saliwonczyk (24779698),Centro,NUEVE DE JULIO,,Abuela margarita,4,4,-35.470486,-60.945516,eventoscamperos@gmail.com,2317447491
+336,Municipalidad de Tandil Municioalidad de Tandil (12285402),Centro,TANDIL,,HUERTA COMUNITARIA AGROECOLOGICA LA MOVEDIZA,0,0,-37.308268,-59.179479,cokrumbo.sr@gmail.com,
+339,Nelson Ferrer Marini (23867407),Sudoeste,VILLARINO,Pedro Luro,Huerta La Familia,0,0,39°51’28’’S,62°66’69’’W,EluneyFerrer@gmail.com,2914602823
+340,Pablo Javier Argilla (22992286),Centro Norte,LINCOLN,,,52,52,-34.8297,-61.4875,pabloargilla@hotmail.com,
+341,Juan Antonio Moralejo (22839548),Centro Norte,LINCOLN,,,98,75,-35.17333333,-62.21222222,juanchimoralejo@hotmail.com,
+342,Matias Ale (32700941),Centro,TANDIL,,Huarte,0,0,-37.328,-59.1286,matiasemilianoale32@gmail.com,
+343,Saul Rabazza (),Centro Norte,LINCOLN,,La chacra,13,13,-34.93333333,-61.5,susanarabaza@gmail.com,
+345,Fabian Soracio (20047240),Sudoeste,GUAMINÍ,,,310,310,-37.0952933,-62.3362906,fabiansoracio68@gmail.com,
+346,Brian Reilly Dovigo (34713516),Centro Norte,GENERAL PINTO,,,5,5,-34.791513250868,-61.8920941797853,brareilly1@gmail.com,
+347,Atilio Omar Schwerdt (10657161),Sudoeste,GUAMINÍ,,,208,208,-37.03466667,-62.53925,normaedithanton@yahoo.com.ar,
+348,Marcelo Luís Calles (22966522),Centro Norte,LINCOLN,Villa Francia,,18,18,-34.79375556,-62.17725556,marceloscalles2003@yahoo.com.ar,
+349,Fernando Schwerdt (25454606),Sudoeste,GUAMINÍ,,,33,33,-37.03286111,-62.40863889,marceloschwerdt@yahoo.com.ar,
+350,Javier Grondona (71252297),Centro Norte,GENERAL PINTO,Coronel Granada ,,675,675,-34.79069444,-62.21775,javier_grondona@yahoo.com.ar,
+351,Maria de las Nieves Paolucci (26524626),Centro Norte,LINCOLN,,,60,60,-34.96177778,-61.58822222,paoluccinieves@hotmail.com,
+353,Lisandro Gomez (30772520),Centro Norte,CHACABUCO,,La Caprichosa,30,30,-34.71332778,-60.35771944,lisandrogomezyo@gmail.com,
+354,Felix Pierri (8234182),Cuenca del Salado,CHASCOMÚS,,,272,272,-35.58547222,-58.16633333,gapierri@gmail.com,
+355,Marissa Codevilla (71199166),Centro Norte,GENERAL PINTO,Coronel Granada ,,180,180,-34.8293888888889,-62.1036388888889,sh.recuerdo@gmail.com,
+356,Rafael Bilota (12530009),Sudoeste,GUAMINÍ,,,176,176,-37.10288889,-62.45152778,rbilotta@hotmail.com,
+361,Héctor jose Catalano (2788561),Cuenca del Salado,MAGDALENA,,Don tomas,,,,,jotaxcuatro@hotmail.com.ar,
+362,Viviana Beasi (14127705),Cuenca del Salado,CHASCOMÚS,,Cooperativa La Huerta Chascomús (en trámite),4,2,-35.622106,-57.995491,almendraartesanias@hotmail.com,
+363,Claudio Moran (20047224),Sudoeste,GUAMINÍ,,"Huerta orgánica ""La estación""",0,0,-37.0128,-62.4189,claudiomoran68@gmail.com,
+364,Fabían Hugo Benito (21529962),Noroeste,GUAMINÍ,Tres Lomas,San Felipe,170,170,-36.5534,-62.6891,fabianbenito@hotmail.com,
+365,COOPERATIVA ESCOLAR ECOHUERTA,Centro Norte,VEINTICINCO DE MAYO,Gobernador Ugarte,Huerta escolar,1,1,-35.166234,-60.083080,secundaria6veinticincodemayo@abc.gob.ar,2346493095
+366,Héctor jose Catalano (27882561),Cuenca del Salado,CHASCOMÚS,,San Juan de maria,104,104,-35.52919167,-57.83861944,jotaxcuatro@hotmail.com.ar,
+367,Federico Manuel Armaño (30509507),Centro Norte,CHIVILCOY,,Drüppa Sustentable,0,0,-34.873748,-60.0575868,federicoarmagno@gmail.com,1166674589
+369,Mariela Raquel IDIART (17502181),Cuenca del Salado,BALCARCE,Los Pinos,RANCHO APARTE,3,3,-37.939573,-58.332296,marielaraquelidiart@gmail.com,2266536851
+372,Alexis Fernando Amoroso (34958786),Sudoeste,CARMEN DE PATAGONES,Carmen de patagones,Escuela Agraria Carlos Spegazzini,1,1,-40.7921388888889,-62.9769444444444,amoroso.alexis@gmail.com,
+373,PATRICIO EMANUEL MELGAR (32345627),Norte,MERCEDES,ALTAMIRA,MAPU,1,0,-34.6881111,-59.38325,patomelgar@yahoo.com.ar,
+374,Haroldo Nicolas Ceferino Lugano (24265958),Centro,TAPALQUÉ,,,3,0,-36.358755,-60.0024,haroldolugano@gmail.com,
+379,Luis Hernández (22577928),Sudoeste,GUAMINÍ,Casbas,La familia HK,3,3,-36.73825,-62.47763889,luismarianohernandez7230@yahoo.com.ar,
+381,María José Montiel (28239582),Centro Norte,BRAGADO,Bragado,Chacra El Jahuel,1,0,-35.1319,-60.4957,lanantu@hotmail.com,
+385,Maximiliano Bongiorno (29764553),Cuenca del Salado,CHASCOMÚS,,El Ceibo,3,3,-35.58106 ,-57.97114,elbonyi@hotmail.com,
+386,Anibal Argomedo (8320998),Norte,BARADERO, Villa Alsina,El Pampa Organico,56,56,-33.93694444,-59.48586111,elpampaorganico@gmail.com,
+389,Ana María del Carmen Ducos (4845474),Sudoeste,SAAVEDRA,Dafaur,Santa Ana,696,311,-37.916719 ,-62.259472,maiagch@gmail.com,
+393,Julio Alfredo Iturriaga (8234160),Cuenca del Salado,LEZAMA,,Mule Hue,242,242,-35.8633333,-57.7980556,luciano.iturriaga@hotmail.com,
+396,Juan Francisco Paggi (33044608),Cuenca del Salado,BALCARCE,,Huerta De Bichos y Flores,5,3,-37.7496170,-58.3173540,huertabichosyflores@gmail.com,2266514421
+397,lucas alberto conti (34383815),Metropolitana,BERISSO,,alma verde,0,0,-34.889797,-58.822149,contilucasalberto@gmail.com,
+399,Ines Elizabet Blanco (18028669),Norte,ARRECIFES,Todd,Don Esteban,60,44,-33.9680996,-60.1667118,esbelblanco@gmail.com,2478466875
+404,Yanina Tolosa (34555149),Centro,VEINTICINCO DE MAYO,,El Origen,3,3,-35.4232778,-60.1329444,silvi_rocco@hotmail.com,
+405,Ricardo Alberto Guerrero (14576130),Metropolitana,BERISSO,BERISSO,Productores de los talas,13,13,-34.906594 ,-57.907659 ,ricardoalberto@hotmail.com,
+408,Oteando Pergamino SA Oteando Pergamino SA (31918793),Norte,PERGAMINO,,La Griselda,142,142,-33.9503,-60.544559,neffeng@yahoo.com.ar,
+412,Dardo Miguel Bessón (26150844),Metropolitana,PRESIDENTE PERÓN,Guernica. Distrito Presidente Perón,La Compañera,36,36,-34.913965,-58.315481,silvina-torres15@hotmail.com,
+413,Fernando Vicente Terán (21090198),Metropolitana,ALMIRANTE BROWN,Glew. Distrito Almirante Brown,Sol y Verde es Vida,3,3,-34.883594,-58.332793,rossifrias77@gmail.com,
+416,Juan Andres Mange (32693810),Metropolitana,CAÑUELAS,CAÑUELAS,Campo San Vicente,5,5,-35.017223 ,-58.814690 ,juanandresmange@gmail.com,
+417,Vanesa Echarri (28289177),Metropolitana,SAN MIGUEL,San Miguel del Monte,Nahuel,138,138,-35.548969,-58.664451,vanesaecharri@yahoo.com.ar,
+418,Victoria Echarri (36213522),Metropolitana,SAN MIGUEL,San Miguel del Monte,Nahuel,138,138,-35.552860,-58.660589,vanesaecharri@yahoo.com.ar,
+421,Guillermo Liemich (29523910),Metropolitana,ESTEBAN ECHEVERRÍA,Monte Grande,Agroecologicos MG,7,7,-34.8271786,-58.4620124,garofalomariana09@gmail.com,
+425,Ana Elena Arisnabarreta (31275676),Centro,VEINTICINCO DE MAYO,,El campito,3,2,-35.499665,-60.349223,aniarisnabarreta@gmail.com,2344408342
+426,Juan Augusto Ballesteros (33709304),Norte,ROJAS,,El Hormiguero Agroecológico,2,2,-34.1489444,-60.7613889,elhormigueroagroecologico@gmail.com,
+428,Valeria Echarri (26842638),Metropolitana,SAN MIGUEL,San Miguel del Monte,Nahuel,138,138,-35.556525,-58.657054,vanesaecharri@yahoo.com.ar,
+429,Silvia Haydee Busse (5972959),Cuenca del Salado,AYACUCHO,,La Victoria,481,481,37°17'1.47''S,58°3'2.49''W,silvia.buss@hotmail.com,2268515555
+432,Ricardo Daniel Marcos (17726781),Metropolitana,LA MATANZA,Virrey del Pino,Agroecologia La Foresta,10,10,-34.835295,-58.627543,naestelaherrero@gmail.com,
+437,Diana Verónica Cagnetta (25187748),Costera Marítima,VILLA GESELL,Villa Gesell,Viverito de Diana,0,0,-37.263839,-56.983676,dianaartesanias@gmail.com,
+439,María Victoria Mendizábal (25269493),Cuenca del Salado,GENERAL BELGRANO,,Convocatoria Ambiental Belgranense,2,2,-35.80113889,-58.4748889,vimendizabal@yahoo.com.ar,
+440,Juan Foresti (32765368),Metropolitana,GENERAL RODRÍGUEZ,,Yanapakuna,16,4,-34.6342957,-58.9160635,juanjoforesti2002@hotmail.com,
+446,Alejandro Simboli (22007708),Costera Marítima,GENERAL PUEYRREDÓN,Mar del Plata,,900,360,-37.8941,-57.57497,alesimboli@gmail.com,223155206364
+447,Mariano Abdala (23005716),Cuenca del Salado,CHASCOMÚS,,La Esmeralda,4,4,-35.5592,-57.9815,vethuellas@yahoo.com.ar,2241547173
+452,OMAR JAVIER SANCHEZ GUERRERO (38704483),Costera Marítima,LOBERÍA,,OMAR SANCHEZ GUERRERO,4,2,-38.1677,-58.7728,omarjaviersanchez72@gmail.com,
+453,Andres Alejandro Aguiar (26416729),Metropolitana,BERISSO,BERISSO,Quinta Isabella,14,3,-34.840464,-57.880250,soloalelp@gmail.com,
+455,Juan Carlos Decunto (22016315),Cuenca del Salado,GENERAL BELGRANO,Chas,San Cayetano,0,0,-35.874362,-58.577683,juankdelrojohotmailcomd@gmail.com,2243408872
+457,Andres Maria Bieta (259931119),Sudoeste,BENITO JUÁREZ,,Los Lotes,65,65,-37.7828,-59.8693,andresbieta@gmail.com,
+460,Sucesion de Best Alberto Arturo Sucesion de Best Alberto Arturo (54764317),Sudoeste,GUAMINÍ,,El venado,675,675,-37.0905805555556,-62.6143861111111,nbest73@yahoo.com.ar,
+461,Emilio Cantarelli (30880640),Centro,TANDIL,,La Famiglia Huerta,2,2,-37.333609,-59.200235,cantarelliemilio5@gmail.com,
+463,Carlos Gabriel Pereyra Aprile (92667248),Costera Marítima,GENERAL ALVARADO,Miramar,Quinta Los nogales,3,2,-38.2078,-57.8972,yesicapereyra67@gmail.com,2235826884
+467,Domitica Carlos Subia (93097239),Costera Marítima,GENERAL PUEYRREDÓN,El Coyunco,Los tres Hermanos,5,2,-37.879,-57.735,baldivia615@gmail.com,2235735000
+468,Juan de Dios Velasquez Paredes (94142629),Costera Marítima,GENERAL PUEYRREDÓN,Laguna de los Padres,La Prosperidad,4,2,-37.91856,-57.7078,jv7550190@gmail.com,
+469,Gustavo Hector Ruppel (21536283),Centro,OLAVARRÍA,,La Nueva,151,13,-37.198170,-60.467148,rosanare@yahoo.com.ar,2216030911
+471,Pablo Compiano (23789860),Norte,PERGAMINO,,El Carao,75,75,-33.918036,-60.63352,Pablogcompiano@gmail.com,2477533839
+472,Guido Pronello (32638961),Metropolitana,CAÑUELAS,Santa Rosa,Huerta Agroecologica Colibri,0,0,-34.95955556,-58.7571389,huertacolibri@gmail.com,
+475,María Inés Ostrit (16738330),Metropolitana,BERISSO,BERISSO,Vida libre,3,3,-34.8546221,-57.873416,rucamalen64@gmail.com,
+479,German Stasiuk (30648830),Metropolitana,BERISSO,,Beressia,3,2,-34.883383 ,-57.841166,germanstasiuk@gmail.com,
+481,Tamara Guereño (29860204),Sudoeste,PUÁN,Erize,El Ombú,400,20,-37.4275,-62.8577278,ecocarhue@gmail.com,
+483,WENCESLAO DIAZ (16350922),Metropolitana,LA MATANZA,Virrey del Pino,PANAMBI,5,3,-34.8370853,-58.6847303,eco.panambi@gmail.com,
+485,Claudio Dario Agustinelli (20697287),Centro Norte,GENERAL PINTO,Villa Francia (Est. Coronel Granada),sin nombre,40,36,-34.790491,-62.188155,cagustinelli@hotmail.com,
+486,GONZALO LUIS HERRERA (32686717),Norte,MERCEDES,,CAMPO ALTAMIRA,10,5,-34.6888611,-59.332000,gonzaherrera@live.com.ar,
+488,Alfredo Mario Braca (26133739),Metropolitana,LUJÁN,Carlos Keen,Granja La Luisa,6,6,-34.535802,-59.292982,alfredobraca@gmail.com,
+489,Evangelina Lemos (18360194),Metropolitana,LUJÁN,Carlos Keen ,La Higuera,8,8,-34.536665,-59.165748,agroalimentacion@lujan.gov.ar,
+490,Ariel Woinilowicz Villagra (92479686),Metropolitana,LUJÁN,Luján,La Escondida,0,0,-34.551295,-59.148431,silviacaminogaravano@gmail.com,
+493,Analia Barnech (41740641),Metropolitana,LUJÁN,Luján,Los Cerezos,24,24,-34.6326402,-59.1066173,agroalimentacion@lujan.gov.ar,
+494,Angela Tomassini (16149276),Metropolitana,LUJÁN,Carlos Keen,Campo Claro,8,6,-34.499557,-59.215222,campoclarotomys@hotmail.com,
+496,Irene Gomez (20036864),Metropolitana,SAN VICENTE,San Vicente,Santa Helena,2,2,-35.0732403,-58.4011859,airin49floresamarillas@gmail.com,
+498,Asociación Civil El Puente Verde El Puente Verde (70794946),Metropolitana,ESTEBAN ECHEVERRÍA,Monte Grande,El Puente Verde,4,4,-34.824532,-58.5091966,proyectoelpuenteverde@gmail.com,
+501,Leandro Esteban Hernández (24962883),Metropolitana,LUJÁN,Carlos Keen,Mirando al Sur,0,0,-34.490020,-59.213771,dalerojolh@gmail.com,
+502,Maria del carmen Lopez (20049546),Noroeste,SALLIQUELÓ,Salliqueló,Huerta san jose,0,0,-36.756528,-62.971147,carmendesalliquelo@hotmail.com,2392441378
+503,Margarita Marín (12642231),Cuenca del Salado,GENERAL BELGRANO,General Belgrano,San Miguel del Temporal,"5,506","5,506",-36.032715,-58.585434,manturj@hotmail.com,2241509058
+504,KARINA ALEJANDRA MARCENARO (24855509),Metropolitana,CAÑUELAS,CAÑUELAS,CAMPO SAN VICENTE,13,13,-35.017223,-58.814690,karmarcenaro@gmail.com,
+506,María Carolina Dall'Osso (21935921),Centro Norte,LEANDRO N. ALEM,Vedia,Gvrv mapu mew,16,15,-34.54936111,-61.6059444,dallossocarolina@gmail.com,
+507,María Inés Astoreca (12039048),Cuenca del Salado,MAGDALENA,,La Aroma,120,120,-35.24211111,-57.8682222,andersenmartin.agro@gmail.com,
+509,"COOPERATIVA TIERRA, TECHO Y TRABAJO LTDA RIOS SERGIO (36310489)",Norte,BARADERO,Baradero,Huerta agroecológica,1,1,-33.8176959,-59.5048579,alejandrapaez1402@gmail.com,3329592441
+510,Maria Soledad Rodriguez (28423073),Metropolitana,EXALTACIÓN DE LA CRUZ,Diego Gaynor,La Pecana,3,3,-34.292413,-59.219922,rodriguezmsoledad@gmail.com,
+511,Encarno Flores Mamani (94273093),Centro Norte,CHACABUCO,Chacabuco,La huerta de Flores,10,9,-34.5956814,-60.4500228,alexisdjordan96@gmail.com,
+512,Nora Barnaba (5649142),Centro Norte,CHACABUCO,Chacabuco,La huerta de Coco,1,1,-34.6391455,-60.4647947,alexisdjordan96@gmail.com,
+517,Nicolas Corbellini (26937493),Sudoeste,BENITO JUÁREZ,Benito Juárez,Varios,20,20,-37.6451700,-59.8394660,ncorbellini@hotmail.com,
+518,Rodrigo Torres (23791913),Cuenca del Salado,LAS FLORES,Las Flores,La Rosa,210,210,-36.110566,-59.162790,naturalasflores@gmail.com,
+519,DANIEL OSCAR CALDERÓN (18085365),Centro Norte,GENERAL PINTO,Germania (Est. Mayor José Orellano),DON TITO,122,122,-34.52527172734130,-62.10932746,dancalde1@gmail.com,2355447821
+520,"Facundo Alvira , Sergio Damian Pettovello e Ignacio Ressia Sociedad simple (716000181)",Centro Norte,GENERAL PINTO,,"Facundo Alvira , Sergio Damian Pettovello e Ignacio Ressia",335,335,-34.7583056,-62.1398333,sdpettovello@gmail.com,
+522,CIMARRONA ALIMENTOS,Noroeste,TRENQUE LAUQUEN,TRENQUE LAUQUEN,LA GUARIDA,28,28,-35.98198,-62.777152,migueluriaduhart@gmail.com,2392624680
+523,Veronica Griselda Sotomayor (25314781),Metropolitana,CAÑUELAS,Uribelarrea,Chacra Raiz,2,1,-35.126048,-58.883905,veronica-sotomayor@live.com,
+525,Asociación Civil CEDEPO CEDEPO (66021366),Metropolitana,FLORENCIO VARELA,Ingeniero Juan Allan,La Parcela,12,4,-34.869472,-58.229740,cedepoac@gmail.com,
+527,Emilio Marcili (32129650),Norte,RAMALLO,Ramallo,Los Gamos,8,7,-33.50525,-60.03166,egm005@hotmail.com,
+529,Diana Russo (26965561),Norte,MERCEDES,,La Criolla,3,2,-34.689903,-59.408870,russodiana@yahoo.com.ar,
+533,Laureano Lopez (32586655),Sudoeste,ADOLFO ALSINA,Carhué,Doña Cota Huevos Agroecológicos,117,20,-37.24008333,-62.6938333,mateusmarce02@gmail.com,
+538,Natalio Lalla (33017254),Norte,MERCEDES,,Quinta de Lalla,4,4,-34.643219,-59.396266,nataliolalla4@gmail.com,
+539,Francisco de Elizalde (33330252),Norte,SAN PEDRO,San Pedro,Tapo,6,6,-33.70542,-59.707472,elizaldefranciscode@hotmail.com,
+541,Julio Enrique Artigas Acevedo (92379714),Sudoeste,TORNQUIST,San Andrés de la Sierra,Espacio Akutun,0,0,-38.06989705,-62.08619962,akutun.akutun@gmail.com,
+542,Genética del Este S.A. S.A. (70804075),Cuenca del Salado,PUNTA INDIO,Pipina,LA EMMA,"1,487","1,487",-35.67390278,-57.37482222,ezequielsack@hotmail.com,
+543,Don Tomás SH Don Tomás SH (71069897),Cuenca del Salado,CHACABUCO,Chascomús,Don Tomás SH,300,300,-35.37566667,-57.8299444,jotaxcuatro@hotmail.com.ar,
+545,Veronica Muñoz (24916034),Metropolitana,LUJÁN,CARLOS KEEN,EK ONG KAR,4,2,-34.461293,-59.241745,m_vero36@hotmail.com,
+546,Malvina Iris Gordillo (23775219),Metropolitana,LUJÁN,Olivera,Establecimiento San Expedito,1,1,-34.629739,-59.255854,malvinairisgordillo@gmail.com,
+547,Luis Eduardo Monteagudo (17930434),Metropolitana,LUJÁN,Olivera,Las Luciernagas,2,2,-34.638432,-59.257351,luismontea@yahoo.com,
+549,Anabella Tamames (29265711),Metropolitana,LUJÁN,Cortines,AMAVA,0,0,-34.545008,-59.202682,anabellatamames@hotmail.com,
+550,Rita Lavallol (17333005),Metropolitana,LUJÁN,Cortines,Santa Rosa de Lima,8,8,-34.546530,-59.204670,agroalimentacion@lujan.gov.ar,
+551,Sebastian Martin Ferraro (31070776),Metropolitana,LUJÁN,CARLOS KEEN,Apiario Don Gregorio,0,0,-34.460977,-59.242719,sebastian.martin1984@gmail.com,
+552,Eduardo Javier Arrascaeta (30341887),Metropolitana,LUJÁN,Luján,El Ñandu,1,1,-34.579611,-59.074833,agroalimentacion@lujan.gov.ar,
+554,David Corsetti (26758615),Centro Norte,GENERAL VIAMONTE,San Emilio,El Alamo,27,13,34°59’11’’S,60°58’22’’ W,david.corsetti@gmail.com,1151153722
+555,Franz Ortega Flores (44145856),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.620247,-59.177724,agroalimentacion@lujan.gov.ar,
+556,Primitivo VIDAURRE ANACHURRI (92874320),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.616467,-59.171662,vidaurreprimitivo@gmail.com,2213509106
+557,Pedro Pablo SURUGUAY GUZMAN (18746224),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.617367,-59.175158,suruguayguzmanpedropablo@gmail.com,
+558,Fermin Ramiro Miranda (12762930),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.618142,-59.170844,cm7622349@gmail.com,
+559,Emiliano Ezequiel Bustamante (32019986),Metropolitana,LUJÁN,Luján,Rustica Agroeco,4,3,-34.602560,-59.140084,emibus@hotmail.com,
+560,Cesar Damian Miranda (28622514),Metropolitana,LUJÁN,Luján,Colonia Agrícola 20 de abril,1,1,-34.61998,-59.173712,cesarlujan000@gmail.com,
+561,Marta Amalia Ramos Argote (94582683),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.61898,-59.174712,mr4521431@gmail.com,
+562,Roberto Mercado (18646580),Metropolitana,LUJÁN,Luján,Colonia Agrícola 20 de abril,1,1,-34.61798,-59.175712,om126815@gmail.com,
+563,Marcos Antonio Rivero (44299914),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.619980,-59.173712,marcoisrivero172@gmail.com,1136915520
+564,Jorge Luis Flores (18750381),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.617843,-59.171550,agroalimentacion@lujan.gov.ar,
+565,Miguel Angel Benitez Cazon (94293837),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.623911,-59.174630,agroalimentacion@lujan.gov.ar,
+566,Antonella Abigail Sanchez Segovia (40653822),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.616980,-59.176712,antythoosanchez19@gmail.com,
+567,Franz Eduardo Ramos Almazán (93742196),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.615980,-59.177712,franzramos800@gmail.com,
+569,Mauro Claudio Fernandez Flores (94547538),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.61498,-59.178712,maurofernandez818@gmail.com,
+572,Roberto Mario Benitez Cazon (94293835),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.619980,-59.173712,robertomariobenitez223@gmail.com,
+576,Carlos Daniel Biscaiburo (14559547),Metropolitana,CAMPANA,Islas de Campana,Edutech S.A.,0,0,-34.06015,-58.965697,coopapidelta@yahoo.com.ar,
+580,MARIANA PADILLA (18053555),Metropolitana,LUJÁN,CARLOS KEEN,CHACRA LA BRAVA,7,7,-34.47775,-59.20909,contacto.lomabrava@gmail.com,
+581,Noemi Beatriz Correa (10215579),Cuenca del Salado,CASTELLI,Cerro de la gloria,El Remanso del Salado,96,96,-35.948200,-57.462297,mimicorrea3@gmail.com,1154227684
+584,Ramona Collante Esquivel (95410858),Metropolitana,ALMIRANTE BROWN,Glew,Las Ramonas,4,2,34°52'51.6''S,58°20'11.5''W,collanteramona5@gmail.com,
+585,Stella Maris Mangione (17731535),Metropolitana,PRESIDENTE PERÓN,Guernica,Vivero ASHPA,0,0,-34.912083,-58.378750,ceashpa@gmail.com,
+589,Magdalena Malagarriga (18291152),Metropolitana,LUJÁN,Luján,San Carlos,20,14,-34.600864,-59.153934,magdamalagarriga@gmail.com,
+590,SM Alimentos Naturales SA SM Alimentos Naturales SA (71557015),Metropolitana,LUJÁN,Cortines,SM Alimentos Naturales SA,3,3,-34.537888,-59.249535,agroalimentacion@lujan.gov.ar,
+591,Obdulio Osmar Arizaga (10593833),Metropolitana,PRESIDENTE PERÓN,Guernica,La Chacrita del Roble,1,1,-34.896769,-58.358263,osmararizaga981@gmail.com,
+594,Carlos rumualdo Gorard (27154314),Metropolitana,BERISSO,Berisso,Don Carlos,7,7,-34.9056173,-57.7878647,carlosgorard@gmail.com,
+596,Alejandra Mariela Watanabe (24349891),Metropolitana,ALMIRANTE BROWN,Ministro Rivadavia,SASAKI,3,3,-34.883699,-58.334232,nestorsaski@gmail.com,
+598,Maida Raquel Mancuello Fernandez (92916678),Metropolitana,ALMIRANTE BROWN,Ministro Rivadavia,la sofia,1,1,-34.883951,-58.330921,mancuellomai904@gmail.com,1151766330
+599,Atilio Mangasco (10418236),Centro,TANDIL,Tandil,La Bombilla,1,1,-37.33833611,-58.9749806,asutandil@gmail.com,
+601,Juan Felipe Giani (32147515),Metropolitana,LUJÁN,Luján,San Pedro,63,63,-34.634924,-59.111263,agroalimentacion@lujan.gov.ar,
+602,"Asociacion cooperadora, Escuela Agropecuaria Emilio White (22072912)",Noroeste,HIPÓLITO YRIGOYEN,Henderson,Escuela Agraria,17,1,-36.336997,-61.773228,agraria1hipolitoyrigoyen@abc.gob.ar,1158700999
+603,Karina Bertolazzi (33027254),Metropolitana,GENERAL LAS HERAS,General Las Heras (Est. Las Heras),Cabaña Don Enrique,12,10,-34.935132 ,-58.928323 ,karina.bertolazzi@gmail.com,
+604,Felipe Gutierrez (34066846),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.621638,-59.170250,agroalimentacion@lujan.gov.ar,
+605,Amado Perales Cazon (93103132),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.6349,-59.1113,amadoperalescazon@gmail.com,
+606,Virgilio Arias (94146934),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.621165,-59.172153,virgilioarias2018@gmail.com,
+608,Satornino Humberto Gutierrez (94332039),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.620375,-59.173804,gutierrezsatornino092@gmail.com,
+609,Jesica Natali Perales Torrez (42155928),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,0,-34.619781,-59.174336,jesicaperalestorrez@gmail.com,
+610,Liliana Marisel Uguaite (37405713),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.619164,-59.169947,liluguaite@gmail.com,
+612,Juan Carlos Erazo (33147151),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.622239,-59.170931,juancarloserazo324@gmail.com,
+613,Yemina Aixa Arias Cortez (42776791),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.61998,-59.173712,yeminaariascortezaixa@gmail.com,
+614,Margarita Maribel Vaca Subia (41746257),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia agroecológica 20 de abril,1,1,-34.619618,-59.172795,celio.tejerina90@gmail.com,
+615,Leonildo Velasquez Barrio (93647946),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.622721,-59.174281,agroalimentacion@lujan.gov.ar,
+616,Josue Elias Subelza Cruz (94934267),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.617362,-59.176014,jotiana3118@gmail.com,
+617,Jovita Jurado Estrada (94149538),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.616989,-59.174822,agroalimentacion@lujan.gov.ar,
+618,Isaias David Reyes (37180705),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.620017,-59.169157,agroalimentacion@lujan.gov.ar,
+619,Oscar Tolaba (18724091),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.615397 ,-59.173413,tolabayolanda1994@gmail.com,2216217122
+621,Juana Castillo Gutierrez (93937421),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.623032,-59.173674,castillogutierrez83@gmail.com,2216087710
+622,Maria Isabel Segovia (94874585),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.621669,-59.168915,agroalimentacion@lujan.gov.ar,
+623,Nimio Guevara Cazon (94916429),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.621654,-59.172699,agroalimentacion@lujan.gov.ar,
+624,Juan Cazon Carnicel (93103596),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.619983,-59.0173714,jcazon04@gmail.com,2216056707
+626,Esther Marisol Villa Lopez (94719895),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.619980,-59.173712,esthervilla666@gmail.com,
+627,Soledad Melisa Erazo (37087617),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.613980,-59.179712,abrilvioleta.ae@gmail.com,
+628,Mirtha Victoria Cruz Tejerina (92955389),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.622355,-59.170402,mirthavict14@gmail.com,1138521523
+629,Nilda Mabel Mercado (33128047),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.612980,-59.179912,mercadonilda70@gmail.com,
+630,Linio Nilco Fernandez Flores (95009482),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,34°36'56.1''S,59°10'27.0''W,linof864@gmail.com,
+631,Victor Arsenio Borja Yufra (92803301),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.622606,-59.172038,agroalimentacion@lujan.gov.ar,
+632,Yeli Yelsi Guerrero Mamani (95787613),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.618599,-59.171312,yelsiguerrero99@gmail.com,
+633,Paola Valeria Ramos Perales (39295095),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.62087,-59.168497,paolaramos96@hotmail.com,2323537304
+634,Antonia Sanche Amador (92963329),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.623004,-59.173411,antoniasanche9296@gmail.com,
+635,Jorge Luis Ochoa (34242667),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,0,-34.621299,-59.174626,rex88todobien@hotmail.com,
+640,Alan Prost (35432907),Sudoeste,PUÁN,Bordenave,PRODUCCION AGROECOLOGICA BORDENAVE,1,1,-37.80813069,-63.04240953,alanprost21@gmail.com,2914046893
+642,Jorge Ruiz Díaz (223415752),Metropolitana,FLORENCIO VARELA,Florencio Varela,Establecimiento Bruno,1,1,-34.850379,-58.253933,jdrd2004@gmail.com,
+643,diego horvat (32010779),Sudoeste,PUÁN,Puán,vivero puan,50,50,"37°33'46"" S","62°45'24"" W",viveropuan@hotmail.com.ar,
+644,ERNESTO MAYOL SA SA (51360551),Metropolitana,CAÑUELAS,Gobernador Udaondo,La Lomita _ Don Ernesto,440,440,-35.38347,-58.58675,paulina.mayol@ernestomayolsa.com.ar,
+653,NESTOR RAUL FOLINO (17291094),Capital,BERISSO,,APIARIO LOS TALAS,3,3,-34.936572,-57.7625576,desarrolloagrario@berisso.gob.ar,
+654,Monica Grasiela Innocenti (12588529),Norte,MERCEDES,,Establecimiento Organico Kiwi y Champignon,5,5,-34.66444,-59.348304,organicosinnocenti@gmail.com,
+655,GIMAI SA GIMAI SA (70981251),Metropolitana,LUJÁN,Luján,L a Amistad BIO,49,47,-34.566876,-59.010413,huerta@laamistadbiohuerta.com.ar,
+656,Cristian Leopoldo Padin (26775729),Centro,RAUCH,Rauch,Las Casuarinas,230,230,-36.645475,-59.015998,lugilinda83@gmail.com,
+657,AT SERVICIOS SA AT SERVICIOS SA (714217212),Metropolitana,LUJÁN,Carlos Keen,La Baguala,13,13,-34.481134,-59.215534,info@cocorokeen.com,
+658,Elvio Dario Calvo (10405862),Sudoeste,PUÁN,17 de Agosto,Campo de Elvio,213,213,-38.011913,-63.023359,calvoelvio40@gmail.com,291154379321
+659,Ramon Manuel Lasserre (22209162),Sudoeste,PUÁN,Bordenave,Campo de Ramon,357,357,-37.95641,-63.28174,ramonlasserre@gmail.com,2923462193
+664,Diego Rene Palmieri (32500274),Sudoeste,PUÁN,Felipe Solá,San Antonio,300,300,-38.039567,-62.832543,diegopal8677@gmail.com,2914361615
+665,Edgardo Gabriel Gonzalez (20629951),Sudoeste,PUÁN,Bordenave,La Colectiva,360,360,-37.840499,-62.929334,gonzalezedgardo162@gmail.com,2923524981
+666,JUAN CARLOS GODOY (18655134),Capital,BERISSO,BERISSO,DON JOSÉ,2,2,-34.891815,-57.806373,desarrolloagrario@berisso.gob.ar,
+667,paula lederman (22533300),Norte,BARADERO,Baradero,Epuyen,88,18,-33.826458,-59.558489,paula_lederman@hotmail.com,
+668,Diego Daniel Marello (28946832),Sudoeste,BAHÍA BLANCA,Bahía Blanca,Estilo Brotes,0,0,-38.713652,-62.294619,diego_mare81@hotmail.com,2915275761
+669,Pedro Perez (5024869),Centro Norte,GENERAL PINTO,General Pinto,sin nombre,19,19,34°46'38''S,61°53'27''W,capdepinto@hotmail.com,
+672,Alejo Sebastian Florio (30750145),Metropolitana,MORENO,Cuartel V,Tierra Viva,3,2,-34.583066,-58.796154,Alejosflorio@gmail.com,
+673,Damian Lencina (32531217),Centro,LOBOS,LOBOS,GRANJA EL GUAJIRO,23,23,-35.129339,-59.085175,damianlencina@gmail.com,1144073212
+674,Florencia Analia Klug (37346543),Metropolitana,LUJÁN,Carlos Keen,Parada Alastuey,18,18,-34.44141,-59.20837,klugflorencia@gmail.com,
+675,COOPERATIVA DE TRABAJO INGENIERO AGRONOMO ARMANDO LUIS PALAU (34555149),Centro,NAVARRO,NAVARRO,UTEP,10,7,-34.999936197985200,-59.279984258469800,dorregonavarro@gmail.com,
+676,Eduardo Gabriel Hansson (13824125),Centro,TANDIL,Tandil,Antü Serrano,1,1,-37.275571,-59.123495,hanssoned@hotmail.com,2494585207
+677,Juan Gatti (33134365),Norte,MERCEDES,,Huerta El Origen,2,1,-34.70239,-59.39956,juangatti12emi@gmail.com,2324530841
+679,Ezequiel Lavintman (31695176),Metropolitana,MARCOS PAZ,Marcos Paz,La Mixturanza,1,1,-34.783324,-58.860355,lavintman@agro.uba.ar,
+680,Claudio Augusto Colato (20984984),Centro,NAVARRO,Navarro,Cabaña Las Hueras,91,91,-35.084438,-59.290603,calicolato@yahoo.com.ar,1132414651
+681,Hector Edgardo Otamendi (17429237),Centro,OLAVARRÍA,Olavarría,Don Emilio,140,140,"36°46'59.6""S","60°14'14.8""W",otamendiedgardo@gmail.com,
+682,ARMANDO CORREA VEGA (92961525),Norte,MERCEDES,,QUINTA LA ESPERANZA,6,4,-34.671292,-59.390428,vegaarmando37@gmail.com,
+684,Enrique tello (28216844),Sudoeste,CARMEN DE PATAGONES,Carmen de patagones,Setadelkurruleufu,0,0,-40.796999,-62.967527,saboresdelatierra20@gmail.com,2920290190
+685,Elida Robles (5672701),Centro,RAUCH,Rauch,Santa Emilia,550,550,-36.688443,-59.090724,emiliotisera@gmail.com,
+686,Eugenia Podlesny (30663084),Costera Marítima,NECOCHEA,Necochea - Quequén,Hospihuerta,2,1,-38.539055,-58.761554,eugepodles@hotmail.com,
+687,Diegp Loray (23698552),Centro,RAUCH,Miranda,La despreciada,67,67,-36.5284340,-59.1312550,mercedesdeortuzar@gmail.com,
+689,Susana Uño (33555330),Metropolitana,LUJÁN,Luján,Familia Uño,1,1,-34.587673,-59.083518,susanauno634@gmail.com,
+692,Monica Maria Graciela Reynoso (12717835),Metropolitana,LUJÁN,Cortines,Bonzo chicco,0,0,-34.535307,-59.178064,mmgreynoso@yahoo.com.ar,
+693,GUILLERMO PUTNIK (27677425),Capital,BERISSO,BERISSO,LOS ESLAVOS,2,1,-34.891159,-57.805506,guilleputnik@gmail.com,
+695,Luciana Sus (37837806),Centro Norte,LEANDRO N. ALEM,Vedia,La Pastora,150,20,-34.481701,-61.547802,luciana.sus@hotmail.com,1132678285
+696,Rafael Maggi (38921675),Metropolitana,EXALTACIÓN DE LA CRUZ,Los Cardales,Quinta Los Alamos,2,2,-34.342948,-58.9761178,rafael.gabriel.maggi@gmail.com,
+697,Luz Maria Carcano (28324666),Metropolitana,EXALTACIÓN DE LA CRUZ,Exaltación de la Cruz,Luz Cárcano,0,0,-34.3358080,-58.9998778,luzmcluz@gmail.com,1165377765
+699,Sucesión de Esperanza Ferrari Sucesión de Esperanza Ferrari (34543333),Cuenca del Salado,AYACUCHO,Ayacucho,Tres de Julio,"1,139","1,139","36°40'42""S","58°35'22""W",ricardovicario@hotmail.com.ar,
+700,Sucesión de Esperanza Ferrari Sucesión de Esperanza Ferrari (34548388),Centro,RAUCH,Rauch,San Jorge,"1,030","1,030","36°37'17.5""S","59°10'12.6""W",ricardovicario@hotmail.com.ar,
+701,MATIAS BRAZZOLA (25993183),Sudoeste,BENITO JUÁREZ,Benito Juárez (Est. Juárez),los pichones,250,250,-37.772058,-59.728014,matiasbrazzola77@gmail.com,2292409791
+703,Leonel Aguirre (32539777),Norte,PERGAMINO,Rancagua,PASTO agroecología,23,23,-34.023409,-60.483228,pasto.agroecologia@gmail.com,2477580500
+704,Malena Sol Mikey (38066638),Centro,SALADILLO,Saladillo,La Luciernaga Lacteos,33,33,-35.668086,-59.885450,malenamikey@gmail.com,2345510720
+705,Oscar Alberto Biere (16694960),Costera Marítima,GENERAL LAVALLE,General Lavalle,El Aromo,0,0,-36.7257990,-56.7449620,oscarbiere@hotmail.com,2257417495
+707,Cooperativa de Trabajo Colonia Ferrari (71616155),Cuenca del Salado,MAIPÚ,Las Armas,Colonia Ferrari,300,300,37°05'27.1''S,57°37'11.4''W,salvador.cecilia@gmail.com,
+709,GERMAN MANUEL ERRETEGUI (26106445),Capital,BERISSO,BERISSO,La Juanita,1,1,-34.873180,-57.851067,germanmanuelerretegui@gmail.com,2216187198
+710,Edgar Yuca Choque (94956436),Costera Marítima,GENERAL PUEYRREDÓN,Sierra de los Padres,-,3,1,-37.913515,-57.798263,edgaryuca9@gmail.com,2235894280
+711,Héctor Horacio Miceli (24955936),Metropolitana,FLORENCIO VARELA,Florencio Varela,Horacio miceli,5,2,-34.897014,-58.259372,horacio19543@gmail.com,1166360790
+713,"Facundo Alvira, Sergio Damian Pettovello e Ignacio Ressia sociedad simple Facundo Alvira, Sergio Damian Pettovello e Ignacio Ressia sociedad simple (71600181)",Noroeste,TRENQUE LAUQUEN,Trenque Lauquen,La Vascongada,219,219,-36.02114167,-62.77096667,sdpettovello@gmail.com,
+715,Alexis Damian Cabilla (34056562),Cuenca del Salado,LAS FLORES,Villa Pardo,Chacra 4 elementos,0,0,-36.215361,-59.373473,alexisdamiancabilla@gmail.com,2224537415
+717,Daniel Peralta Godoy (93869433),Metropolitana,ALMIRANTE BROWN,Ministro Rivadavia,Las cuatro niñas,3,2,-34.880386,-58.333375,rolandodanielperaltagodoy@gmail.com,
+718,Raul Chavez Marín (92930504),Metropolitana,ALMIRANTE BROWN,Glew,Familia Chavez-Olarte,10,5,-34.875947,-58.337177,noemivaleria18@gmail.com,
+719,Lautaro Falcone (22226430),Costera Marítima,GENERAL LAVALLE,General Lavalle,Vivero Forestal La Pita,3,1,-36.380812,-56.766896,lapita05@hotmail.com,
+721,Víctor Vicente Mamani (92961920),Metropolitana,FLORENCIO VARELA,Florencio Varela,Víctor Vicente Mamani,2,2,-34.904105,-58.259372,melanieppalacios@gmail.com,
+722,Tomas Barca Solorzano (92943561),Metropolitana,FLORENCIO VARELA,Florencio Varela,Tomas Barca,3,3,-34.903502,-58.261409,melanieppalacios@gmail.com,
+724,SAN CARLOS SH DE SPINELLI GUIDO Y FLORES MARIA CONSTANZA (30-70955755-2),Norte,MERCEDES,Mercedes,San José,65,60,-34.661139,-59.648086,spinelliguido@hotmail.com,2324479403
+725,Martin Hernan Salvador (27623122),Centro Norte,CHACABUCO,Chacabuco,La Caprichosa,66,66,34°42'36.0''S,60°21'19.4''W ,martinsalvador1980@gmail.com,2352481043
+773,Nicolas Tenca (29407256),Metropolitana,LUJÁN,Open Door (Est. Dr. Domingo Cabred),Santa María de San Nicolás,10,10,-34.4787386,-59.0298793,nicotenca1@gmail.com,
+774,Ivar Valeriano Altamirano (94570333),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.619358,-59.167187,ivarvaleriano1@gmail.com,1131156046
+775,Eduardo Ursagaste Ayarde (94145169),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.61925,-59.170361,urzagaste203507@hotmail.com,2216919790
+776,Claudio Fernandez Galean (18791802),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,-34.624132,-59.166125,claudiofernadezz@gmail.com,2213557262
+777,Emiliano Alvarez Zanelli (30284312),Capital,BERISSO,Berisso,Las Isabellas,1,1,-34.876039,-57.827028,ealvarezzanelli@gmail.com,
+778,Tomas Battista (35551187),Centro Norte,CHIVILCOY,Chivilcoy,Cultura Tierra,0,0,-34.896757,-60.044424,tomufopermacultura@gmail.com,2346334714
+780,Eulalia Ortega (24616917),Metropolitana,BERAZATEGUI,Centro Agrícola El Pato,Quinta Castillo,3,2,-34.905075,-58.200204,eulaliao492@gmail.com,
+784,Josue Trujillo Flores (93017879),Metropolitana,BERAZATEGUI,Centro Agrícola El Pato,Huerta Trujillo,2,2,-34.904047,-58.190733,josuetf02@gmail.com,
+786,juan humberto choque (18731472),Metropolitana,FLORENCIO VARELA,Ingeniero Juan Allan,quinta humberto,3,2,-34.906980,-58.257603,gabihola97@gmail.com,
+788,Eduardo Balletto (27854770),Capital,BERISSO,Berisso,Eduardo Balletto,0,0,-34.911098,-57.788682,eduardoballeto@gmail.com,2216764920
+790,Asociacion Cooperadora Centro de Educación Agraria N°12 (70876669),Cuenca del Salado,AYACUCHO,AYACUCHO,Centro de Educación Agraria N°12,20,20,-37.08963,-57.87979,cea12ayacucho@abc.gob.ar,
+792,María Rosa Masson (17846744),Centro,OLAVARRÍA,Hinojo,San José / Baby,255,175,"36°55'36.93""S",60°5'3.44''W,massonmr4@gmail.com,
+793,Enrique Emilio Hohl (34730051),Centro,OLAVARRÍA,Olavarría,Tu lugar,1,1,36°54'14.81''S,60°17'22.7''W,enriquehohl@gmail.com,2284698313
+798,Omar Franco Manrrique Mendo (38473787),Metropolitana,FLORENCIO VARELA,Florencio Varela,Omar Manrrique Mendo,1,1,-34.894741,-58.272981,frankomanrique36@gmail.com,
+799,Tomas Esteban Bejger (39432676),Capital,BERISSO,BERISSO,La Génova,0,0,-34.864871,-57.884459,tomasbejger96@gmail.com,
+800,Simón Vicente Mamani (93052918),Metropolitana,FLORENCIO VARELA,Florencio Varela,Simón Vicente Mamani,2,2,-34.902681,-58.259786,clau85.san@gmail.com,
+803,leticia gaspar (40851630),Capital,LA PLATA,La Plata,quinta,2,1,-35.023700,-58.033173,letiigaspar98@gmail.com,
+805,Natalia Cabrera (34463829),Norte,BARADERO,Baradero,Casa Baradero,1,1,-33.838264,-59.473335,maevia.fbs@gmail.com,
+806,Dora Maria del Valle Caceres (10356096),Centro Norte,CHIVILCOY,Chivilcoy,Granja Santa Catalina,7,7,-34.853070,-60.103255,doramariacaceres@gmail.com,
+807,Gustavo Rodriguez (94190515),Metropolitana,BERAZATEGUI,Berazategui,Gustavo Rodriguez,2,2,-34.857315,-58.159147,gr5296129@gmail.com,
+810,COOP DE TRABAJO EL EXILIO LTDA (30-71728247-3),Sudoeste,BENITO JUÁREZ,Benito Juárez (Est. Juárez),El Exilio,2,2,-37.6400328,-59.8136865,federicocortez84@yahoo.com.ar,2281532713
+815,Pablo Daniel Martinez (32009564),Metropolitana,MORENO,Trujui,Parque Agrario Agroecológico Morenense 3 (PAAM 3),2,2,-34.599503,-58.790167,dany3186@gmail.com,1161234793
+818,JOSE RICARDO DE SIMONE (8351731),Metropolitana,BERISSO,BERISSO,DE SIMONE,10,10,-34.853063,-57.876423,fabrica@pinturasprixma.com.ar,
+824,Ana María Zabala (25655416),Noroeste,SALLIQUELÓ,Salliqueló,Los Charrúas,1,1,-36.746814,-62.967852,ropeyronel22@gmail.com,2392487607
+825,Mauricio Roberto Andres (22855690),Sudoeste,ADOLFO ALSINA,Carhué,Don Hugo,50,50,-37.134686,-62.689421,mauroandres73ksk@gmail.com,2936404222
+826,Miguel Alejandro Gonzalez Barbieri (22467789),Noroeste,GENERAL VILLEGAS,Banderaló,Predio Barberi,4,4,-35.021783,-63.376219,magbmaxwell@hotmail.com,
+827,Claudia Elizabeth Porcel de Peralta (21498350),Metropolitana,SAN VICENTE,Domselaar,Granja El Vikingo G. C. H.,8,1,-35.072403,-58.255288,plantines.elvikingo@gmail.com,1121708853
+828,Guido Buccigrossi (23979419),Capital,LA PLATA,La Plata,Hongos Umami,0,0,-34.92348424,-57.96173389,guidobuccigrossi@gmail.com,2214001830
+829,Martín Ignacio Citti (30780703),Sudoeste,TORNQUIST,Tornquist,El Petricor,2,2,38°3'37.26''S,62°11'9.096''W,ignaciocitti@gmail.com,1159902787
+830,Eugenia Castillo (94165254),Centro,AZUL,Azul,Don Carlos,5,3,-36.83031,-59.92050,hernancabrerasensei@gmail.com,2281312049
+831,Pedro Daniel Paladea (16144329),Metropolitana,FLORENCIO VARELA,Ingeniero Juan Allan,Don Segundo Agroecomogico,3,1,-34.8720817,-58.2319758,pedrodanielpaladea3@gmail.com,1121714077
+833,Ruben Vieta (17208257),Centro,AZUL,AZUL,Paraiso Vegetal,1,1,-36.76159,-59.87273,hernancabrerasensei@gmail.com,2281579958
+834,Patricio daniel Hernandez (303823620),Sudoeste,GUAMINÍ,Garré,La familia,3,3,-36.6135416,-62.5568566,papatripicipiopo@hotmail.com,29292411291
+835,Leonardo Parodi (28168386),Centro,NAVARRO,Navarro,El Soberano,29,29,-34.829749,-59.297553,leoparodi.arg@gmail.com,
+843,Estancia Dos Marias SRL (71632934),Sudoeste,BENITO JUÁREZ,Benito Juárez (Est. Juárez),Estancia Dos Marias,237,93,37°32'30''S,59°39'29''W,estanciadosmariassrl@gmail.com,
+844,DESIERVI CEREALES SACIFIA,Centro,VEINTICINCO DE MAYO,Norberto de la Riestra,La Paciencia,100,100,-35.3237840,-59.8487330,emorlino@desiervicereales.com.ar,2345683185
+845,LORENA ELIZABETH CASANOVA (23979365),Capital,LA PLATA,LA PLATA,LA ABEJA MAESTRA,1,1,-34.997174,-57.844037,lorenaecasanova@hotmail.com,
+846,Javier Olijigewiez (27824609),Capital,LA PLATA,Abasto,Los menonitas,0,0,-35.275000,-57.2525,Javiersan@hotmail.com.ar,2214340037
+847,Javier Olijigewiez (27824609),Capital,PUNTA INDIO,Veronica,Los menonitas,0,0,-35.370757,-57.267615,Javiersan@hotmail.com.ar,2214340037
+850,Maria Graciela Harrington (16521208),Sudoeste,TORNQUIST,Tornquist,Santa Monica,267,60,"38°6'21""S","62°18'46""W",graharrington@hotmail.com,2914439681
+851,Diego Emanuel Gonzalez (27542273),Metropolitana,LUJÁN,Luján,Pato,0,0,-34.5787731,-59.055745,diegonzalez79@gmail.com,
+853,Casandra Devia (39243199),Metropolitana,MORÓN,Moron,MORON SurCo,2,2,-34.69652694,-58.64855702,deviacasandra@gmail.com,
+854,en defensa de la soberania la tierra y los humildes asociacion civil (71739362),Metropolitana,TIGRE,General Pacheco,centro demostrativo las tunas,0,0,-34.432312,-58.665314,qucintya@gmail.com,
+855,Andrea Cecilia Suarez (26382990),Centro Norte,GENERAL VIAMONTE,Los Toldos,Comunidad Ñuke Mapu,1,1,-35.002325,-61.056610,ceciliasuarezwemil@gmail.com,2355544428
+856,Andrés María Bieta,Sudoeste,BENITO JUÁREZ,Benito Juárez (Est. Juárez),Santa Maria,156,156,-37.607664,-60.05102,andresbieta@gmail.com,2281538876
+857,Jenifer Lucero Ramos Perales (41142619),Metropolitana,LUJÁN,José María Jáuregui (Est. Jáuregui),Colonia Agrícola 20 de abril,1,1,34°37'14.4''S,59°10'18.0''W,jenifer.jr998@gmail.com,
+859,Asociación Cooperadora de la Estación Experimental Gorina (100000000),Capital,LA PLATA,Joaquín Gorina,Estación Experimental Gorina - MDA,32,8,-34.9153,-58.0398,estaciongorina@gmail.com,
+861,Centro de Investigación Docencia y Extensión UNLu (58676240),Metropolitana,LUJÁN,Luján,CIDEPA,235,13,"-34.583333 
+
+",-59.080833 ,dircidepa@unlu.edu.ar,
+864,Miguel Angel Vallespi (20323328),Metropolitana,SAN VICENTE,Alejandro Korn,KMiel,0,0,-34.987227,-58.364239,apimiga@hotmail.com,
+867,Walter Oscar Núñez (14931406),Capital,BERISSO,Berisso,Apiario,0,0,-34.896174,-57.817623,ps_wnunez@yahoo.com.ar,2215622081
+870,COOP DE PROVISION DE SERVICIOS PARA PRODUCTORES RURALES MORENENSES CUARTEL V LTDA,Metropolitana,MORENO,Cuartel V,Parque Agrario Agroecológico Morenense N° 1 (P.A.A.M. 1),1,1,-34.569810,-58.835736,cuartelvcooperativa@gmail.com,1159069688
+871,Natalia Noemi Ramos (27339654),Centro,SALADILLO,Saladillo,Huerta Orgánica y Frutos Exóticos,0,0,-35.644859,-59.781679,misstyna1979@gmail.com,
+873,Lucía Gabriela Bordoni (31529135),Norte,MERCEDES,Mercedes,Sukha,2,2,-34.7088110,-59.466163,luciarhcp@hotmail.com,1154131392
+876,ODOJMA S.A. SA (70801073),Metropolitana,LUJÁN,Luján,Ariel Bosisio,30,30,-34.5456170,-59.2971210,apotob@gmail.com,
+877,Alejandro Gabriel Tartaglia (18109494),Metropolitana,LUJÁN,CARLOS KEEN,Apicola Las Piqueras,0,0,-34.481781 ,-59.205743,atartaglia66@gmail.com,1122836789
+878,Marcos Alejandro Reche (22646589),Metropolitana,LUJÁN,Luján,Vivero Don Ricardo,0,0,-34.550568,-59.134882,ingmarcosreche@gmail.com,1167834076
+884,Guido Bruno (35085440),Norte,PERGAMINO,Pergamino,El Abuelo Agroecologia.,1,1,-33.9507415,-60.6897952,guidobruno91@gmail.com,2477532030
+887,José Adrián Bruccieri (21961981),Noroeste,TRENQUE LAUQUEN,Trenque Lauquen,Huerta familiar,0,0,-35.964926,-62.723655,claroargentina@hotmail.com,2392404800
+889,REHOBOT REHOBOT (70876728),Norte,SAN PEDRO,Gobernador Castro,Huerta Agroecológica La Gloriosa,1,1,-33.65842,-59.87262,islasladignidad@gmail.com,
+890,María Josefina Ghelfi (34155345),Norte,MERCEDES,Mercedes,El Despertar,5,5,-34.718444,-59.409167,josefinaghelfi@gmail.com,1158000004
+891,Candela Barcelo (34554858),Norte,ARRECIFES,Arrecifes,La turca,2,2,34°08'51.8''S,60°02'19.6''W,gizzigiuliana89@gmail.com,2478477660
+892,Matías Miguel Lemos (31421866),Norte,MERCEDES,Mercedes,Aroma a Huerta,3,3,34°41'09.6''S,59°24'17.6''W,matilemos2@gmail.com,232415355612
+894,Daniel Alberto Caminos (29888688),Norte,ARRECIFES,Arrecifes,Don Félix y Justina,85,40,-34.214357,-60.001384,kokycaminos@gmail.com,2477602091
+900,German Nilo Noval (37198616),Cuenca del Salado,PUNTA INDIO,Punta Indio,Granja Agroturística Claudia F.,20,20,-35.36306389,-57.25396389,gmnoval@gmail.com,
+903,Ignacio Tirelli (26258627),Metropolitana,MORENO,MORENO,LAS CASUARINAS,0,0,-34.63769925587964,-58.76955324352928,itirelli@gmail.com,1138739228
+904,Tierras Bravías S.A. ,,OLAVARRÍA,Olavarría,Tierras Bravías,300,300,-37.1004,-60.3952,marianapene@hotmail.com,2235193102
+910,Carolina Andrea Sansone,Costera Marítima,GENERAL PUEYRREDÓN,Mar del Plata,Humus de la sierra ,0,0,-37.896401,-57.773562,carolinasansonedi@hotmail.com,2234471727
+912,Flavia Nasta (26000162),Centro Norte,CHIVILCOY,Chivilcoy,Girgolas del Huerto,0,0,-34.873075,-60.056575,flavianasta@hotmail.com,2346695307
+915,Leandro Martin Peral (30435654),Norte,MERCEDES,Mercedes,La Mumma,4,4,-34.707189,-59.39707,lp@hark.com.ar,1166296805
+917,Natalia Mariana Ravina (26952608),Cuenca del Salado,PUNTA INDIO,VERóNICA,La clelia,2,2,-35.4100084,-57.3396226,nravina@agro.uba.ar,1144162052
+920,Yanina emilce mc coubrey (24051755),Sudoeste,VILLARINO,La Mascota,la pacha,319,319,-38.78188,-62.676773,yaninamccoubrey@gmail.com,2914630808
+931,Suc. de Glaria Arnoldo Domingo (71599697),Cuenca del Salado,GENERAL GUIDO,General Guido,La Grachi,365,365,-37.00996389,-57.9593472,glariaaldana@hotmail.com,3446531400
+932,Asociacion Civil por la Responsabilidad Social Amartya . (70950603),Costera Marítima,MAR CHIQUITA,Coronel Vidal,Quinta Esencia,30,30,-37.408698,-57.582430,diego@amartya.org,2234244752
+934,Julio César Muñoz (21156046),Norte,ARRECIFES,Arrecifes,Bosbul,118,118,-34.164506,-60.0746826,juzgadoarrecifes@hotmail.com,2478460358
+938,Julia aylen Safe (33107897),Sudoeste,VILLARINO,Médanos,La avispa alfarera,12,12,-38.855871,-62.63942,aylensafe@gmail.com,2915398077
+939,Francisco Allian (14891117),Sudoeste,VILLARINO,Villarino,Chacra Familia Allian,5,5,-39.2207,-62.3935,carmen_54_ascasubi@hotmail.com,2995932898
+940,Silvio Sarco (26382984),Centro Norte,GENERAL VIAMONTE,Los Toldos,Corral de las Cabras,16,4,-35.066169,-61.099145,silviosarco@gmail.com,2355649714
+941,MARCOS DANIEL SINGLA (28794596),Centro Norte,JUNÍN,Junín,STELLA MARIS,26,26,-34.551605,-60.993949,marcossingla@gmail.com,2364540196
+942,Pedro Norberto Brizuela (11646458),Sudoeste,VILLARINO,Pedro Luro,Sin nombre,1,1,-39.494238,-62.66201,pedronorbertobrizuela@gmail.com,2914296345
+947,ROBERTO AGUIRRE (40123282),Costera Marítima,GENERAL PUEYRREDÓN,Batán,Quinta Jazmín,1,1,-38.016273,-57.670335,mg546372@gmail.com,2233420932
+950,Analía Nélida Cardoso (24847667),Centro Norte,JUNÍN,Morse,Nuestra Huerta,4,2,-34.75854,-60.852008,analiacardosobranas@gmail.com,2364415931
+952,Terebinto S.R.L. Terebinto srl (30715176),Noroeste,TRENQUE LAUQUEN,30 de Agosto,Ñuke Mapu,200,200,-35.9669007,-62.7027223,terebintosrl@gmail.com,2915727635
+954,Sergio Adriano Gonzalez (295417770),Metropolitana,FLORENCIO VARELA,Florencio Varela,La bendecida,4,2,-34.871329,-58.242274,adrianoka1982@gmail.com,1138148269
+958,Alejandro Balestra (26420105),Metropolitana,LUJÁN,Open Door (Est. Dr. Domingo Cabred),La abundancia,5,5,-34.480768,-59.041641,solucionbambu@gmail.com,1155794555
+959,Elena Senattori (6670940),Metropolitana,BERAZATEGUI,Berazategui,Huerta Ecológica Santa Elena,6,6,-34.837705,-58.092435,santaelenahuerta@gmail.com,2214777988
+969,Fernando López (34233173),Sudoeste,BAHÍA BLANCA,Bahía Blanca,La Intención,8,8,-38.647847,-62.108929,fernandomlopez@live.com,2916422261
+971,Veronica Liliana Chavez (32006717),Metropolitana,BERAZATEGUI,Berazategui,Quinta 95,2,1,-34.855179,-58.175115,verochavez821@gmail.com,1136507544
+972,CESAR RICARDO GARCIA (18787238),Costera Marítima,GENERAL PUEYRREDÓN,Batán,QUINTA EL GAUCHITO,16,2,-38.016568,-57.676292,GARCIAELGAUCHITO@GMAIL.COM,2235989157
+973,JUAN BELISARIO ALTAMIRANO (34500419),Costera Marítima,GENERAL PUEYRREDÓN,MAR DEL PLATA,QUINTA SANTINO MELCHOR,3,1,-37.933132,-57.686253,JUANALTAMIRANO597@GMAIL.COM,2236901932
+975,VEIZAGA MARCA MICHAEL (93001635),Costera Marítima,GENERAL PUEYRREDÓN,MAR DEL PLATA,MICHAELVEIZAGA95@GMAIL.COM,3,0,-37.91323,-57.79062,MICHAELVEIZAGA95@GMAIL.COM,2234366154
+977,FRANCISCO VEDIA ROMERO (94329953),Costera Marítima,GENERAL PUEYRREDÓN,MAR DEL PLATA,QUINTA MARTIARENAS,4,1,-37.956843,-57.734622,VEDIAROMEROFRANCISCO@GMAIL.COM,2235055090
+982,Martin Hernan Salvador (27623122),Centro Norte,CHACABUCO,chacabuco,La Posta,66,66,34°42'36.0''S ,60°21'19.4''W ,martinsalvador1980@gmail.com,2352481043
+988,Lorena Rodriguez Urroz (27217804),Costera Marítima,GENERAL PUEYRREDÓN,MAR DEL PLATA,Ostrica,0,0,-37.931362,-57.549244,rodriguezurrozlorena@gmail.com,2235454878
+989,Vicenta Marquez (92879089),Costera Marítima,GENERAL PUEYRREDÓN,MAR DEL PLATA,San carlos,1,1,-37.897639,-57.770654,vickylagenia773@hotmail.com,2235902166
+990,Miriam Elizabeth Mori (26909656),Sudoeste,GUAMINÍ,Arroyo Venado,Cultivando Arroyo,2,2,-37.07999,-62.535991,miriamjavi2712@gmail.com,2923484776
+991,Gabriela Cynthia Rivas (21644780),Metropolitana,CAÑUELAS,CAÑUELAS,LA ROSARIO,3,3,-35.091223,-58.800644,gabrielacynthiarivas@gmail.com,
+996,MABEL UYEMAS (17404037),Norte,COLÓN,Colón,FINCA LOS ZORZALES,4,4,-33.894557,-61.098236,fincaaloszorzales@gmail.com,2473541964
+999,Angel Tarifa Velasquez (931144485),Metropolitana,LA PLATA,City Bell,Quinta Angel,1,0,-34.9188050,-58.0935410,angeltarifa629@gmail.com,2213179912
+1000,Carlos Alfredo Rocabado Arenas (35777126),Metropolitana,LA PLATA,Abasto,Carlos Alfredo Rocabado Arenas,1,1,-34.936124,-58.120445,alfredorocabadoarenas@gmail.com,3446539607
+1001,Claudio Fernandez Galean (18791802),Metropolitana,LA PLATA,City Bell,Quinta Fernandez,1,1,-34.919842,-58.0890760,claudiogfernandezz@gmail.com,2213557262
+1003,Amador Velasquez Santos (92987278),Cuenca del Salado,MAGDALENA,Magdalena,Amador Velasquez santos,1,1,-35.105152,-57.897538,santossusana1359@gmail.com,2215985626
+1004,Beymar Guervara tarifa (94150440),Capital,La Plata,Angel Etcheverry,Beymar Guevara Tarifa,2,2,-35.0525,-58.0563,beymargyevaratarifa123@gmail.com,2215488969
+1005,Ines Flores Beites (18788933),Metropolitana,CAÑUELAS,Máximo Paz,Colonia Maximo Paz,2,2,-34.947076,-58.612536,inesflores728@gmail.com,1151322936
+1006,Ariel Guzman Gonzales (94692126),Metropolitana,CAÑUELAS,Máximo Paz,Colonia Maximo Paz,2,2,-34.946238,-58.612819,arielguzman.2208@gmail.com,1131660060
+1010,Silvina lorena Lucchesi (23437518),Norte,SAN PEDRO,San pedro,LA CUMBRE,19,10,-33.777433,-59.893273,silvinalucchesi2018@gmail.com,3329596898
+1012,LA CHOZA COOPERATIVA DE TRBAJO LIMITADA . (71209380),Metropolitana,GENERAL RODRÍGUEZ,General Rodríguez,La Choza Copperativa de Trabajo Limitada,115,115,-34.6691435,-58.9521325,marcos.brinnand@lachoza.com.ar,1157641503
+1013,COOPERATIVA DE TRABAJO Y PROVISION DE SERVICIOS PAEA PRODUCTORES RURALES AGROECOLOGICA LA NUEVA ESPERANZA LIMITADA . (71740639),Metropolitana,MARCOS PAZ,Marcos Paz,Huerta Municipal La Esperanza,3,3,-34.745134,-58.809361,evangelinaperalta@live.com.ar,1132743152
+1015,Sandra Julia Villafuerte Rodriguez (94589238),Costera Marítima,GENERAL PUEYRREDÓN,Batán,Quinta Julia,3,1,-38.018044,-57.671565,juliavillafuerte61@gmail.com,2236980539
+1016,Rubén Cardozo Rodriguez (94106234),Metropolitana,LA PLATA,LA PLATA,Ruben Cardozo,1,1,-35.017293,-57.992372,maribelcastro1720@gmail.com,2216495150
+1017,Anastacia Churata Pavia (95004829),Metropolitana,FLORENCIO VARELA,FLORENCIO VARELA,Lote 29,1,0,-34.872945,-58.239566,anachurat0@gmail.com,1133100896
+1018,Maria Florencia Mercado Rivero (32010166),Metropolitana,LA PLATA,LA PLATA,Quinta Guevara,1,0,-35.016185,-58.022125,mariaflorenciamercado982@gmail.com,1121840866
+1019,Evaristo Gaspar (21181268),Metropolitana,LA PLATA,LA PLATA,Quinta Gaspar,1,1,-35.022952,-58.034015,yosoydylan98@gmail.com,2216264136
+1020,Demetrio Condori (95341195),Metropolitana,LA PLATA,LA PLATA,Quinta Demetrio,2,1,-34.931478,-58.127107,fiscoyacondoridemetrio@gmail.com,2214408974
+1022,Ruth Perez Amador (94966803),Metropolitana,LA PLATA,LA PLATA,La cancha,2,2,-35.002902,-58.066914,pruth770@gmail.com,2216112177
+1026,Claudina Limachi Condo de Janco (96097699),Metropolitana,BERAZATEGUI,BERAZATEGUI,Quinta Portal,2,2,-34.909306,-58.147094 ,limachiclaudia771@gmail.com,1136808178
+1027,Herminia Altamirano (93037853),Metropolitana,LA PLATA,LA PLATA,Arana,1,1,-35.006868,-57.964058,altamiranoherminia28@gmail.com,2214548391
+1028,COOP DE TRABAJO ANDRES EDUARDO CARRASCO LTDA . (71730843),Metropolitana,LA PLATA,Angel Etcheverry,SIN DEFIINIR AUN,3,3,-35.02483791,-58.06282063,coopandreseduardocarrasco@gmail.com,1130947374
+1029,Cooperativa de Provisión de Servicios para Productores Rurales Mariano Moreno LTDA (71699831),Metropolitana,MORENO,Cuartel V,"Parque Agrario Agroecológico Morenense ""PARQUE DEL OESTE"" (PAAM PARQUE DELOESTE)",4,1,34°34'15.9''S,58°50'10.2''W,palominoangelicavictoria@gmail.com,1131580380
+1033,Brigida Cadena Aramayo (94212024),Capital,La Plata,Lisandro Olmos,Quinta Lucas,2,2,-34.991714,-58.052571,brigidacadena12@gmail.com,2216053644
+1034,Noel Jonas Anda caballo Tirado (94573110),Capital,La Plata,Lisandro Olmos,Quinta Andacaba,0,0,-35.024804,-58.015964,andacabaj@gmail.com,2215023170
+1035,Alejandro Rojas (93014088),Metropolitana,FLORENCIO VARELA,La capilla,Alejandro Rojas,3,2,-34.915148 ,-58.239941,12345rojas.alejandro@gmail.com,1160926229
+1039,Maria Nieves Sediari (32331315),Centro,NAVARRO,Navarro,Maria Teresa,0,0,-35.003928,-59.272315,ma_nevy@hotmail.com,2226512142
+1040,Yamila Belén Saez (384422921),Metropolitana,MALVINAS ARGENTINAS,Malvinas Argentinas,Espacio la Vía,5,0,-37.63889,-59.38634,yamilabelensaez@gmail.com,2281539316
+1041,Victoria Burs (22293814),Metropolitana,ZÁRATE,Zárate,La tregua,0,0,-33.9581015,-59.1349259,Vickyburs@gmail.com,
+1043,Isabel Irene Cuevas Castro (92377623),Metropolitana,MARCOS PAZ,marcos paz,Regina,0,0,-34.848611 ,-58.828611 ,apitec-isa@hotmail.com,1134431818
+1045,Walter jesus Spinozzi (17055774),Noroeste,RIVADAVIA,América,Tambo El campito,0,0,-35.345,-62.463,maris_spinozzi@hotmai.com,2392625068
+1046,PABLO TOSCANINI (23054822),Metropolitana,GENERAL RODRÍGUEZ,General Rodríguez,La Fraternidad,0,0,-34.58968,-58.9913806,toscaninipablo@yahoo.com.ar,1155617803
+1050,Carlos Rufino Cruz (36386143),Costera Marítima,GENERAL PUEYRREDÓN,batán,Campo de Alvarez,5,1,-38.0190216,-57.705657,cc190874@gmail.com,2235957753
+1052,COOP DE TRABAJO TURBA AGROECOLOGICA LTDA agroecología (71726795),Norte,PERGAMINO,Pergamino,Turba Trigo,7,7,-33.849627,-60.544746,EQUIPOTURBA@gmail.com,1122456684
+1053,COOPERATIVA DE TRABAJO HORTICULTORES GUAMINENSES LIMITADA . (71743996),Sudoeste,GUAMINÍ,Casbas,UPAF,8,1,-36.767044,-62.492508,luismarianohernandez7230@yahoo.com.ar,2923425701
+1054,Amalia Leonor Aban Arroyo (95092524),Metropolitana,FLORENCIO VARELA,FLORENCIO VARELA,Familia Arroyo,1,1,-34.893746,-58.231079,abanamalia7@gmail.com,1126729099
+1056,RAYMUNDO ROCABADO ARENAS (94843150),Capital,LA PLATA,La Plata,Quinta Raymundo,2,2,-34.938922,-58.121347,raymundorocabadoarenas@gmail.com,2216689059
+1058,Universidad Nacional de La Plata Universidad Nacional de La Plata (54666669),Capital,BERISSO,BERISSO,6 de agosto,6,6,-34.908138,-57.92531,luisdipiero@hotmail.com,2215925825
+1059,ASOCIACION COOPERADORA AGROPECUARIA N1 DE BERAZATEGUI ASOCIACION COOPERADORA AGROPECUARIA N1 DE BERAZATEGUI (71258400),Metropolitana,BERAZATEGUI,BERAZATEGUI,ASOCIACION COOPERADORA AGROPECUARIA N1 DE BERAZATEGUI,15,15,-34.857617,-58.168589,agraria1berazategui@abc.gob.ar,1162543988
+1062,Nestor Javier Carreras (17835013),Noroeste,HIPÓLITO YRIGOYEN,HENDERSON,HUERTA ORGANICA EL CORRENTINO,5,1,-36.33568,-61.723211,Emilianomaribel2019@gmail.com,2314623973
+1063,FLAVIO ALEJANDRO SUROS (23572389),Noroeste,HIPÓLITO YRIGOYEN,HENDERSON,HUERTA NUESTRA TIERRA,5,1,-36.294227,-61.698324,flavioalejandrosuros@gmail.com,2314513289
+1064,Juan Pablo Andres Lopez (33356782),Centro,TANDIL,Tandil,Calma Tierra,48,48,-37.396772,-59.182599,jpa-lopez@hotmail.com,2494621078
+1065,Juan Manuel Rey (31781965),Centro,NAVARRO,José Juan Almeyra,Productos el Chola,2,100,-34.92426,-59.54663,reyjmanuel85@gmail.com,0
+1066,Alcides Leopoldo Caminos (25828085),Centro Norte,GENERAL VIAMONTE,Los Toldos,Rancho Bonito,6,3,-35.020954,-61.055543,caminosl@hotmail.com,2355577840
+1067,PRIMO QUISPE TELAO (93572586),Capital,La Plata,Lisandro Olmos,Quinta Quispe,2,2,-35.012415,-58.039593,primoquispetelao123@gmail.com,2215396029
+1069,SONIA MARIEL CORONEL (93992402),Metropolitana,PRESIDENTE PERÓN,Guernica,La quinta de Sonia,0,0,-34.88157,-58.31937,soniamarielcoronel@outlook.com,1125032697
+1070,ROBERTO GUERRERO (23243209),Metropolitana,MALVINAS ARGENTINAS,VILLA DE MAYO,VILLA DE MAYO,0,0,-34.505073,-58.676066,guerrero.ro@gmail.com,1168510291
+1071,26 DE JUNIO EN LUCHA ASOCIACION CIVIL . (71543301),Metropolitana,PRESIDENTE PERÓN,Guernica,Huerta comunitaria agroecológica 26 de Junio en Lucha,2,2,-34.908306,-58.361667,fpds.guernica@gmail.com,1133596702
+1073,MATIAS HIDALGO (34551021),Centro Norte,LINCOLN,ROBERTS,ALMOND,100,3,-35.20778,-62.064167,mrhidalgo029@gmail.com,2355523927
+1074,Rosalia Castillo (18750380),Metropolitana,Luján,Jáuregui,Colonia agroecológica 20 de abril,1,1,-34.62069,-59.168545,rosaliacastillo0309@gmail.com,2215463041
+1080,David Antonio Basbus (18433702),Metropolitana,ZÁRATE,Zárate,DaCar Apicola,1,1,-34.050288,-58.963738,jamibasbus@gmail.com,3487229805
+1082,Tomas Moscoso Falon (94274294),Metropolitana,FLORENCIO VARELA,Florencio Varela,Tomas Moscoso,2,1,-34.898917,-58.268666,tomasmoscoso05@gmail.com,1126721587
+1084,Daniel Adrian Caruso (27635409),Metropolitana,ZÁRATE,Zárate,Isla,1,1,-34.05081,-58.962765,dani_lacueva22@hotmail.com,3484595592
+1085,Jorge Armando Romero Barrientos (94872410),Centro Norte,CHIVILCOY,Chivilcoy,Pachamama - Huerta Agroecologica,2,2,-34.875889,-60.003205,j94872@gmail.com,2346698600
+1087,Miguel Roberto Reyes (39295632),Metropolitana,LUJÁN,Luján,Colonia Agrícola 20 de abril,1,1,-34.620835,-59.167828,Miguelreyesa66@gmail.com,0
+1088,Ivan Jesus Vidaurre (41727407),Metropolitana,LUJÁN,Luján,Colonia UTT predio Vidaurre,1,1,-34.619085,-59.170987,agroalimentacion@lujan.gov.ar,2323353604
+1089,JAVIER ALEJANDRO BRION (23307057),Noroeste,HIPÓLITO YRIGOYEN,HENDERSON,NUESTRA TIERRA,5,1,-36.294167,-61.698717,javieralejandrobrion@gmail.com,1158944542
+1090,Santiago Ariel Castro (27265281),Cuenca del Salado,LAS FLORES,Las Flores,Miel de Campo,0,0,-36.241512,-59.143163,santiarielcastro@gmail.com,2244446669
+1092,Santiago Estevez Magnasco,Sudoeste,BENITO JUÁREZ,Barker,La Concordia,540,80,-37.559765,-59.4013337,santiagoem2@gmail.com,1127929043
+1097,Santiago Biscia (27462751),Norte,SAN PEDRO,Vuelta de Obligado,La Escalera,1,1,-33.588355,-59.826419,santiagobiscia@hotmail.com,3329635623
+1098,Franco Daniel Lazzari (25816929),Norte,SAN PEDRO,San Pedro,Barrancas de Obligado,1,1,-33.588355,-59.826419,lazzari.franco@inta.gob.ar,3329519050
+1100,NORMA BEATRIZ GENIN (17840075),Metropolitana,ESCOBAR,Belén de Escobar,Quinta la Luz Mala,2,2,-34.322029,-58.786925,geninnorma@gmail.com,1132982120
+1102,cooperativa de trabajo horticultores guaminenses limitada cooperativa de trabajo horticultores guaminenses limitada (71743996),Sudoeste,GUAMINÍ,Guaminí,coop horti guaminenses,2,1,-37.023283,-62.413187,coophorticultoresguaminenses@gmail.com,2923425701
+1106,Christian Omar Lorente (25044882),Cuenca del Salado,MAGDALENA,Vieytes,Las calas,32,32,-35.294318,-57.554342,christianlorente@hotmail.com,2215484888
+1107,Maria Suarez Mackeprang (31821460),Costera Marítima,GENERAL PUEYRREDÓN,Sierra de los padres,Cinco Surcos,0,0,-37.932476,-57.789741,mariasmacke85@gmail.com,2262358411
+1116,Santiago Román Martinez (33399666),Centro,BOLÍVAR,San Carlos de Bolívar (Est. Bolívar),Greenhouse,0,0,-36.230469,-61.107958,santiagoromanmartinez@gmail.com,2314544526
+1122,Asoc.Coop E.E. Manantiales ,Cuenca del Salado,CHASCOMÚS,Chascomús,Chacra Experimental Manantiales,700,155,-35.754545,-58.059466,bailleres.matias@inta.gob.ar,2241544686
+1124,Gervasio Bozzano (28367903),Cuenca del Salado,GENERAL GUIDO,General Guido,Las Gurisas,9,9,-36.845637,-57.895339,gervasiobozzano@gmail.com,1169734111
+1125,Martin Sebastian Levetti (33365334),Metropolitana,CAMPANA,CAMPANA,Sin Nombre (Campana),1,1,-34.118,-58.957167,Martin.s.levetti@gmail.com,3487540710
+1127,ROSA FABIANA VILLALBA,METROPOLITANA,LA PLATA,Arana,la granja de Fabi y José,4,4,-35.0145,-57.935264,fabianavillalba1973@gmail.com,2214287580
+1128,COOP DE TRABAJO INTEGRAL AGROPECUARIA DEL SUR LTDA . (71718141),Metropolitana,BERAZATEGUI,Berazategui,Huerta Paseo Malvinas Argentinas,6,4,-34.864942,-58.131035,facuvillacorta25@gmail.com,2216764727
+1133,SABINO MARQUEZ CABEZAS (92879087),Costera Marítima,GENERAL PUEYRREDÓN,MAR DEL PLATA,QUINTA SABINO,1,1,-37.900502,-57.776264,sabinomarquez636@gmail.com,2235839484
+1136,Marcela Edith Dupre,Sudoeste,GENERAL LA MADRID,Líbano,Campo Nuevo,180,150,-37.431149,-61.392099,marceladupre22@hotmail.com,2284609762
+1137,Cristian Ramón Inacio (33006938),Metropolitana,FLORENCIO VARELA,Villa San Luis,Estancia Los Gallinales,4,4,-34.855853,-58.242754,cristianramoninacio@gmail.com,1136281509
+1138,Juvenal junior Marin Gutierrez (94068016),Metropolitana,FLORENCIO VARELA,La Capilla,Quinta Nacasone,3,3,-34.893343,-58.229906,marinjunior95@gmail.com,1157316792
+1146,CRISTIAN ISAIAS SCHENONE (31607866),Cuenca del Salado,MAGDALENA,MAGDALENA,CAMPO DEL TORO,0,0,-35.298686,-57.559294,cristiansche@hotmail.com,2214983806
+1174,José Antonio Vilca (16347923),Costera Marítima,GENERAL PUEYRREDÓN,Batán,Lo de José,2,1,-37.994985,-57.721885,hernancuevas.cn@gmail.com,2235793936
+1191,RONAL CAZON GUERRA (94329109),Metropolitana,FLORENCIO VARELA,FLORENCIO VARELA,FLORENCIO VARELA,3,3,-34.8516330,-58.2496770,ronalcalzonguerra2019@gmail.com.ar,1121909732
+1195,Matias Fernandez (33362628),Sudoeste,CORONEL SUÁREZ,Coronel Suárez,Chiche,90,30,-37.642722,-61.978472,fer.mati87@gmail.com,2926506444
+1203,José Luis Valdez (95185576),Costera Marítima,GENERAL PUEYRREDÓN,Sierra de los padres,Lucho y familia,5,0,-37.920292,-57.707451,16joseluis18@gmail.com,2236630310
+1207,Pablo del Gener,Cuenca del Salado,LAS FLORES,Las Flores,El Resueyo,161,161,-36.2358817,-59.1634663,pablodelgener3@gmail.com,1155764508
+1210,Celtas del Sur s.r.l. (71711721),Metropolitana,MARCOS PAZ,MARCOS PAZ,La Delfina,300,200,-34.911079,-58.810651,tomas.sheridan@gmail.com,1560499606
+1211,Ruth Noemi Gallego (17588172),Metropolitana,FLORENCIO VARELA,Villa San Luis,La amada,1,1,-34.85687,-58.24263,noemigallego65@gmail.com,1154150115
+1212,Inocencia Portal Villa (94513361),Costera Marítima,GENERAL PUEYRREDÓN,Barrio El Boquerón,Familia Valdez,5,3,-38.021222,-57.789167,hernancuevas.cn@gmail.com,2236686910
+1215,Modesto Armas Leon,Capital,La Plata,Lisandro Olmos,Quinta Modesto,2,2,-35.030356,-58.007120,modesto.armas.2023@gmail.com,2214310963
+1250,Melina tamara adrover (31850879),Cuenca del Salado,PUNTA INDIO,Verónica,Blanca flores,0,0,-35.378321,-57.338076,melinaadrover68@gmail.com,2221496529
+1251,Ruben Jorge Sánchez (20966097),Metropolitana,BERAZATEGUI,El Pato,Vivero Ruben,1,1,-34.892267,-58.163649,rubensanchez2010@live.com.ar,1158349072
+1252,CELIA MARINA ACUÑA (31147982),Centro Norte,LINCOLN,Triunvirato,comunidad mapuche ranquel Rupu Antu,1,1,-34.658704,-61.371384,acu.celia.marina@gmail.com,2355512135
+1259,PINCEN SA PINCEN SA (64852432),Cuenca del Salado,LAS FLORES,LAS FLORES,La Peluda,720,720,-35.886511,-59.402678,ciezaramon@gmail.com,2216018647
+1280,EDWIN ROLANDO RIVERO RIVERA (94968744),Costera Marítima,GENERAL PUEYRREDÓN,MAR DEL PLATA,QUINTA Rivero,10,1,-37.970289,-57.721268,BANDIDOB220@GMAIL.COM,2235068810
+1285,Ignacio Marque (30745384),Costera Marítima,GENERAL ALVARADO,Comandante Nicanor Otamendi,.,2,2,-38.12362,-57.77231,ignacio@marque.com.ar,2291465762
+1290,Sabbatini Carolina y Sabbatini Lucrecia SH Sabbatini Carolina y Sabbatini Lucrecia SH (71434736),Centro,OLAVARRÍA,OLAVARRÍA,DON ATILIO,938,938,-36.756977,-60.748215,lucreciasabbatini@hotmail.com,2284632164
+1292,mariana gonzales chaves (33506952),Sudoeste,SAAVEDRA,Pigüé,Las Piedras,535,475,-37.687318,-62.253847,laspiedrasreservanatural@gmail.com,1161463267
+1293,Leonor Troncoso (26571936),Sudoeste,BAHÍA BLANCA,General Daniel Cerri (Est. General Cerri),"Delicias Leo, productos agroecologicos",1,1,-38.42284,-62.23599,troncosoleonor43@gmail.com,2915730217
+1295,CONCARO SRL . (1111111),Centro,TAPALQUÉ,VELLOSO,LA INDEPENDENCIA DE PALENQUE,"2,439","2,439",-36.1422,-59.688,Caroconcaro@gmail.com,1140239868
+1308,MARTA CRISTINA SAINZ (14066322),Sudoeste,SAAVEDRA,Espartillar,LOMAS DEL NEYEN,120,2,-37.360044,-62.421988,lomasdelneyen@gmail.com,
+1309,Jimena Rocca (27791303),Capital,La Plata,city bell,tierra cosmica,1,1,-34.912735,-58.096309,jimerocc@gmail.com,2215478599
+1310,PEDRO ORDOÑEZ TAPIA (94115283),Metropolitana,FLORENCIO VARELA,FLORENCIO VARELA,UTT,1,1,-34.849329,-58.243506,pedroordonesutt@gmail.com,1124513489
+1333,Walter Carlos Rubianes (20316095),Cuenca del Salado,DOLORES,Dolores,Las Bruscas,100,70,-36.319737,-57.673947,patiten68@hotmail.com,2245404761
+1334,Juan Elias Mariño (37229762),Metropolitana,ZÁRATE,ZÁRATE,La horqueta,0,0,-33.953233,-58.91124,elias_92_92@hotmail.com,3487230460
+1336,CARLOS MARCOS CENICEROS (20499186),Centro Norte,LINCOLN,LINCOLN,DON ALBINO,26,26,-34.7960771,-61.47233,marcosceniceros@hotmail.com,2355692002
+1339,Bruno Moran (26751979),Centro Norte,GENERAL VIAMONTE,General Viamonte,La Resolana,137,37,-35.220889,-61.162888,bruno.moran78@gmail.com,235815411108
+1346,copa guernica (714005979),Metropolitana,PRESIDENTE PERÓN,guernica,copa,1,1,-34.929582,-58.364732,copaguernica@gmail.com,1169746812
+1348,Asociación civil Colectivo de educación popular ore tape Ore Tape (40634348),Sudoeste,BENITO JUÁREZ,Benito Juárez (Est. Juárez),Huerta Agroecológica Ore Tape,0,0,-37.670035,-59.81429,ore_tape@yahoo.com.ar,2281633349
+1353,Coopertativa de Trabajo Abya Yala Limitadsa . (71717941),Metropolitana,SAN VICENTE,Alejandro Korn,Comuna Rural Dario Santillan,18,1,-35.001575,-58.387521,abyayala.coop@gmail.com,111530096780
+1358,Matías Noel Seijas (24907550),Cuenca del Salado,GENERAL PAZ,Alegre,Colmenar lolo,0,0,-35.2454,-58.1605,matiasseijas75@gmail.com,1157444258
+1377,COOPERATIVA DE TRABAJO BIOMAS LIMITADA COOPERATIVA DE TRABAJO BIOMAS LIMITADA (71807773),Cuenca del Salado,BALCARCE,BALCARCE,El Paraiso,5,5,-37.881441,-58.283624,biomascooperativa@gmail.com,2266511021
