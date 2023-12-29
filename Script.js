@@ -13,7 +13,7 @@ var puntosLayer;
 
 function cargarDatos() {
     console.log('Iniciando carga de datos...');
-    d3.csv('AE.CSV').then(function(data) {
+    d3.csv('AE.csv').then(function(data) {
         console.log('Datos cargados correctamente:', data);
 
         // Crear un LayerGroup para los puntos
@@ -104,17 +104,17 @@ function getColor(superficieAE) {
     var ae = parseFloat(superficieAE) || 0;
 
     // Asignar colores según la lógica deseada
-    return ae > 100 ? 'blue' : ae > 50 ? 'yellow' : 'red';
+    return ae = 'blue' ;
 }
 
 function generarContenidoPopup(datos) {
     var contenidoPopup = `<b>${datos.NOMBRE}</b><br>`;
-    contenidoPopup += `ID: ${datos.ID}<br>`;
-    contenidoPopup += `Región: ${datos.REGION}<br>`;
+    
+    
     contenidoPopup += `Partido: ${datos.PARTIDO}<br>`;
     contenidoPopup += `Localidad: ${datos.LOCALIDAD}<br>`;
     contenidoPopup += `Nombre: ${datos.NOMBRE}<br>`;
-    contenidoPopup += `Superficie Total: ${datos['SUPERFICIE TOTAL']}<br>`;
+    contenidoPopup += `ID: ${datos.ID}<br>`;
     contenidoPopup += `Domicilio: ${datos.DOMICILIO}<br>`;
     contenidoPopup += `Correo: <a href="mailto:${datos.CORREO}">${datos.CORREO}</a><br>`;
     contenidoPopup += `Teléfono: <a href="tel:${datos.TELEFONO}">${datos.TELEFONO}</a><br>`;
@@ -127,10 +127,14 @@ function generarContenidoPopup(datos) {
 
 
 // Inicializar el mapa Leaflet
-map = L.map('map').setView([-34.6037, -58.3816], 10); // Coordenadas centradas en Buenos Aires, Argentina
+map = L.map('map').setView([-37.6037, -58.3816], 6.5); // Coordenadas centradas en Buenos Aires, Argentina
+map.setMinZoom(6.5);
+var southWest = L.latLng(-41.664671, -65.987747);
+var northEast = L.latLng(-32.277807, -55.067337);
+var bounds = L.latLngBounds(southWest, northEast);
+map.setMaxBounds(bounds);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
 // Cargar datos al iniciar la aplicación
 cargarDatos();
-
 
